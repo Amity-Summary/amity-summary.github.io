@@ -1060,5 +1060,31 @@ input.addEventListener("input", () => {
 
 ]]></content:encoded>
     </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://amity-summary.github.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amity-summary.github.org/faq/</guid>
+      <description>&lt;h2 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h2&gt;&#xA;&lt;p&gt;For information about the summaries and their purpose, please refer to the&#xA;&lt;a href=&#34;https://amity-summary.github.org/about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-often-is-this-updated&#34;&gt;How often is this updated?&lt;/h2&gt;&#xA;&lt;p&gt;For now the updates are manual, i&amp;rsquo;ll do my best to keep the data&#xA;up to date, but please keep in mind that this is a way to check&#xA;if an amity combination is available in a public party, and it&amp;rsquo;s&#xA;&lt;strong&gt;not&lt;/strong&gt; a replacement for weekly summaries in the respective servers.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="what-is-this">What is this?</h2>
+<p>For information about the summaries and their purpose, please refer to the
+<a href="/about/">About</a> page.</p>
+<h2 id="how-often-is-this-updated">How often is this updated?</h2>
+<p>For now the updates are manual, i&rsquo;ll do my best to keep the data
+up to date, but please keep in mind that this is a way to check
+if an amity combination is available in a public party, and it&rsquo;s
+<strong>not</strong> a replacement for weekly summaries in the respective servers.</p>
+<h2 id="i-see-that-a-bonus-available-this-week-is-missing-from-the-summaries">I see that a bonus available this week is missing from the summaries!</h2>
+<p>Please refer to the previous question. If you find any missing data,
+feel free to open an issue or contact me directly on discord.</p>
+<h2 id="i-see-a-bonus-im-looking-for-is-not-present-in-the-summaries-does-that-mean-its-not-available-anywhere">I see a bonus i&rsquo;m looking for is not present in the summaries, does that mean it&rsquo;s not available anywhere?</h2>
+<p>Not necessarily, some bonuses are excluded since they&rsquo;re not very
+desireable by many players.
+Furthermore, all the gathered data comes from the community effort of the
+hunters that put in time and effort to map the amities available each week (as
+well as the owner and the hoster of the bot we use for tracking), so consider
+contributing and maybe something good will come up!</p>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
