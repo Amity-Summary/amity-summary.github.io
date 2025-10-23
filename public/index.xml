@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amity Summary</title>
+    <link>https://amity-summary.github.org/</link>
+    <description>Recent content on Amity Summary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Sephrost (CC BY 4.0)</copyright>
+    <atom:link href="https://amity-summary.github.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://amity-summary.github.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amity-summary.github.org/about/</guid>
+      <description>&lt;p&gt;When you want to see if an amity combination is available you either have to filter&#xA;trough all the different spreadsheets or to keep checking the summaries for the&#xA;different parties. Those solutions can be very overwhelming at first, and&#xA;neither or those are very accessible, so here&amp;rsquo;s my solution to it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-summary&#34;&gt;General Summary&lt;/h2&gt;&#xA;&lt;p&gt;This summary contains all the amities where at least the first two ones are max rolls (the&#xA;maximum bonus available). There are some exceptions for astoundingly good amities and for&#xA;bonuses that are great at lower rolls.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When you want to see if an amity combination is available you either have to filter
+trough all the different spreadsheets or to keep checking the summaries for the
+different parties. Those solutions can be very overwhelming at first, and
+neither or those are very accessible, so here&rsquo;s my solution to it.</p>
+<h2 id="general-summary">General Summary</h2>
+<p>This summary contains all the amities where at least the first two ones are max rolls (the
+maximum bonus available). There are some exceptions for astoundingly good amities and for
+bonuses that are great at lower rolls.</p>
+<h2 id="extended-summary">Extended Summary</h2>
+<p>This summary contains all the amities with at least two <em>good</em> rolls,
+regardless of their position. Rolls can lower than max rolls to some extent.</p>
+<h2 id="beginner-summaries-crit-and-accessory">Beginner Summaries (Crit and Accessory)</h2>
+<p>Those summaries are tailored for new players, as such they will contain, all instances where
+the related bonus is present in the first slot (common+), regardless of the other rolls. All
+the other bonuses of a given amity will be displayed as well.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Extended</title>
+      <link>https://amity-summary.github.org/summaries/extended/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amity-summary.github.org/summaries/extended/</guid>
+      <description>&lt;input type=&#34;search&#34; id=&#34;search&#34; placeholder=&#34;Crit dmg...&#34;&#xA;  style=&#34;width:100%;padding:0.5em;margin:1em 0;&#34;&gt;&#xA;&#xA;&lt;div id=&#34;weeks&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 05 Jan&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏡 @ A4 UTC 4 (Jotity) : +5% maximum HP regen, +20% water dmg&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ B3 UTC 1 (Aon) : +5% ward regen, +10% full HP dmg&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ D2 UTC 4 (Aon) : 3 ward turns, +15% dragon dmg&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ B1 UTC 9 (Aon) : +15% ward dmg, +10% dark dmg&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ D3 UTC 14 (Aon) : hybrid, +15% water dmg&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ C2 UTC 14 (Aon) : +20% dragon dmg, +20% water dmg&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ D5 UTC 15 (Aon) : +20% water dmg, +10% full HP dmg&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ D2 UTC 18 (Aon) : +30% arcane dmg, +20% earthen dmg, +2% follower protect&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ C4 UTC 11 (Deux) : +2% maximum HP regen, BB 1&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ A1 UTC 19 (DKNK) : 5 ward turns, +2% missing HP regen, +7% follower protect&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ B4 UTC 20 (DKNK) : Parapet 20% @ 100% max HP, +15% ward dmg&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ B2 UTC 17 (Pompey) : +15% dragon dmg, Parapet 20% @ 95% max HP&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ B1 UTC 21 (Pompey) : +20% fire dmg, +15% dark dmg&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ A1 UTC 18 (Caer Arcanum 1) : +4% crit chance, +50% buff duration, +12% faction dmg&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ A1 UTC 19 (Chiemi Tanaka) : 5 ward turns, +2% missing HP regen, +7% follower protect&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ B4 UTC 20 (Chiemi Tanaka) : Parapet 20% @ 100% max HP, +15% ward dmg&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 12 Jan&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<input type="search" id="search" placeholder="Crit dmg..."
+  style="width:100%;padding:0.5em;margin:1em 0;">
+
+<div id="weeks">
+  <p><strong><strong>Week of 05 Jan</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 4 (Jotity) : +5% maximum HP regen, +20% water dmg</li>
+<li>🚶 @ B3 UTC 1 (Aon) : +5% ward regen, +10% full HP dmg</li>
+<li>🚶 @ D2 UTC 4 (Aon) : 3 ward turns, +15% dragon dmg</li>
+<li>🚶 @ B1 UTC 9 (Aon) : +15% ward dmg, +10% dark dmg</li>
+<li>🚶 @ D3 UTC 14 (Aon) : hybrid, +15% water dmg</li>
+<li>🚶 @ C2 UTC 14 (Aon) : +20% dragon dmg, +20% water dmg</li>
+<li>🚶 @ D5 UTC 15 (Aon) : +20% water dmg, +10% full HP dmg</li>
+<li>🚶 @ D2 UTC 18 (Aon) : +30% arcane dmg, +20% earthen dmg, +2% follower protect</li>
+<li>🚶 @ C4 UTC 11 (Deux) : +2% maximum HP regen, BB 1</li>
+<li>🏡 @ A1 UTC 19 (DKNK) : 5 ward turns, +2% missing HP regen, +7% follower protect</li>
+<li>🏡 @ B4 UTC 20 (DKNK) : Parapet 20% @ 100% max HP, +15% ward dmg</li>
+<li>🏡 @ B2 UTC 17 (Pompey) : +15% dragon dmg, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ B1 UTC 21 (Pompey) : +20% fire dmg, +15% dark dmg</li>
+<li>🏡 @ A1 UTC 18 (Caer Arcanum 1) : +4% crit chance, +50% buff duration, +12% faction dmg</li>
+<li>🏡 @ A1 UTC 19 (Chiemi Tanaka) : 5 ward turns, +2% missing HP regen, +7% follower protect</li>
+<li>🏡 @ B4 UTC 20 (Chiemi Tanaka) : Parapet 20% @ 100% max HP, +15% ward dmg</li>
+</ul>
+<p><strong><strong>Week of 12 Jan</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 3 (Jotity) : +5% ward regen, +15% water dmg</li>
+<li>🏡 @ B3 UTC 22 (Hook) : 5 ward turns, +80% dark res</li>
+<li>🏡 @ A2 UTC 12 (Aon) : +15% full HP dmg, +30% dragon dmg, -9% self dmg</li>
+<li>🏡 @ C2 UTC 19 (Aon) : 5% ward convertion, +20% dark dmg, 2 ward turns</li>
+<li>🚶 @ D2 UTC 14 (DKNK) : +50% buff duration, +80% dark res</li>
+<li>🏡 @ B3 UTC 6 (PotKettleBlack) : +30% arcane dmg, +20% exploit dmg, +3% follower act</li>
+<li>🏡 @ A3 UTC 3 (GreenShores) : +30% dragon dmg, +15% full HP dmg</li>
+<li>🏡 @ A2 UTC 3 (GreenShores) : 4 ward turns, +15% holy dmg</li>
+<li>🏡 @ B2 UTC 14 (GreenShores) : +50% buff duration, +10% holy dmg</li>
+<li>🏡 @ A4 UTC 13 (Caer Arcanum 1) : +15% follower stats, +20% exploit dmg, +3% call response</li>
+<li>🚶 @ D2 UTC 14 (Chiemi Tanaka) : +50% buff duration, +80% dark res</li>
+</ul>
+<p><strong><strong>Week of 19 Jan</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 9 (Hook) : hybrid, +6% follower protect</li>
+<li>🏡 @ A3 UTC 9 (Aon) : BB 1, +20% arcane dmg, +3% crit chance</li>
+<li>🚶 @ A5 UTC 16 (Aon) : Parapet 20% @ 95% max HP, 10 XP/m, +20% water dmg</li>
+<li>🚶 @ B1 UTC 2 (Deux) : +20% arcane dmg, +15% exploit dmg, +20% dmg vs magical creatures</li>
+<li>🏡 @ B4 UTC 15 (Deux) : +10% dark dmg, Parapet 20% @ 100% max HP</li>
+<li>🏡 @ C3 UTC 4 (Tres) : BB 1, +15% earthen dmg</li>
+<li>🏡 @ C2 UTC 4 (Tres) : +80% arcane res, +20% ward dmg</li>
+<li>🚶 @ B1 UTC 11 (Tres) : Parapet 20% @ 100% max HP, +20% earthen dmg</li>
+<li>🏡 @ A1 UTC 7 (Pompey) : Parapet 20% @ 95% max HP, +30% water res, +5% follower protect</li>
+<li>🏡 @ B3 UTC 22 (Pompey) : +15% territory stats, +3% ward regen, +15% dark dmg</li>
+<li>🏡 @ B2 UTC 21 (PotKettleBlack) : +30% dragon dmg, 3 ward turns</li>
+<li>🚶 @ A3 UTC 9 (Bad Horse) : +2% accuracy, +10% full HP dmg</li>
+<li>🏡 @ C2 UTC 19 (Bad Horse) : +30% lightning res, +80% dragon res, +20% water dmg</li>
+</ul>
+<p><strong><strong>Week of 26 Jan</strong></strong></p>
+<ul>
+<li>🏡 @ D3 UTC 19 (Jotity) : +30% arcane dmg, Parapet 20% @ 95% max HP</li>
+<li>🚶 @ C2 UTC 3 (Amifish) : BB 1, +10% territory stats</li>
+<li>🏡 @ B1 UTC 11 (Amifish) : +3% crit chance, +10% holy dmg, -20% dmg from dragons</li>
+<li>🏡 @ A3 UTC 10 (Aon) : +4% crit chance, +20% exploit dmg, -15% dmg from dragons</li>
+<li>🚶 @ B2 UTC 20 (Aon) : +15% follower stats, +20% dark dmg</li>
+<li>🚶 @ D1 UTC 10 (Deux) : +25% accessory, +4% ward regen, 4 ward turns</li>
+<li>🚶 @ D4 UTC 18 (Deux) : +5% view distance, +7% follower protect</li>
+<li>🚶 @ B1 UTC 10 (Tres) : +5% ward regen, +2% accuracy</li>
+<li>🏡 @ A3 UTC 14 (Tres) : 4 ward turns, +30% summon stats, 1% ignore ward</li>
+<li>🏡 @ B2 UTC 20 (Tres) : +10% ward dmg, +3% maximum HP regen</li>
+<li>🏡 @ B4 UTC 20 (Tres) : +2% accuracy, +20% lightning dmg</li>
+<li>🏡 @ A4 UTC 18 (Pompey) : +20% dragon dmg, +80% dark res</li>
+<li>🏡 @ B1 UTC 3 (Gilia 1) : +50% buff duration, +4% accuracy, +20% exploit dmg</li>
+</ul>
+<p><strong><strong>Week of 02 Feb</strong></strong></p>
+<ul>
+<li>🏡 @ B1 UTC 13 (Jotity) : +6% follower protect, +10% territory stats</li>
+<li>🚶 @ A1 UTC 4 (Aon) : +20% lightning dmg, +15% full HP dmg, +25% counter dmg</li>
+<li>🚶 @ C4 UTC 4 (Aon) : BB 1, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ A1 UTC 20 (Aon) : BB 1, +4% missing HP regen, +80% earthen res</li>
+<li>🚶 @ A2 UTC 3 (Deux) : +20% earthen dmg, +2% experience points, +15% exploit dmg</li>
+<li>🏡 @ C2 UTC 21 (Deux) : +20% ward dmg, BB 1</li>
+<li>🏡 @ A1 UTC 3 (Tres) : +15% arcane dmg, +15% exploit dmg</li>
+<li>🏡 @ A1 UTC 14 (Pompey) : +15% territory stats, hybrid, +15% full HP dmg</li>
+<li>🏡 @ A3 UTC 2 (PotKettleBlack) : BB 1, +3% accuracy</li>
+<li>🏡 @ A1 UTC 2 (GreenShores) : +2% maximum HP regen, +5% missing HP regen</li>
+<li>🏡 @ B4 UTC 23 (GreenShores) : +80% arcane res, +5% ward regen</li>
+</ul>
+<p><strong><strong>Week of 09 Feb</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 15 (Deux) : Parapet 20% @ 95% max HP, +15% earthen dmg</li>
+<li>🏡 @ A1 UTC 9 (Pompey) : Parapet 20% @ 100% max HP, +10% follower stats</li>
+<li>🏡 @ A2 UTC 2 (PotKettleBlack) : +5% missing HP regen, +10% earthen dmg</li>
+<li>🏡 @ A1 UTC 16 (Bad Horse) : +15% arcane dmg, 5 ward turns</li>
+</ul>
+<p><strong><strong>Week of 16 Feb</strong></strong></p>
+<ul>
+<li>🚶 @ B1 UTC 23 (Jotity) : +40% Crit dmg, Parapet 20% @ 100% max HP, +30% water res</li>
+<li>🏡 @ B4 UTC 4 (Aon) : +5% maximum HP regen, +3% ward regen</li>
+<li>🏡 @ C1 UTC 11 (Aon) : +15% territory stats, +10% arcane res, +15% dark dmg</li>
+<li>🚶 @ D2 UTC 12 (Aon) : +4% accuracy, +3% ward regen</li>
+<li>🏡 @ A4 UTC 0 (Tres) : +15% follower stats, 10 XP/m, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ C1 UTC 17 (Tres) : +4% accuracy, +15% fire dmg</li>
+<li>🏡 @ B4 UTC 12 (DKNK) : +20% water dmg, +10% fire dmg</li>
+<li>🏡 @ A3 UTC 13 (DKNK) : +15% follower stats, +10% full HP dmg</li>
+<li>🏡 @ A5 UTC 8 (Pompey) : +50% buff duration, +4% call response, +4% crit chance</li>
+<li>🏡 @ A3 UTC 19 (Pompey) : +15% arcane dmg, +15% full HP dmg, +2% missing Mana regen</li>
+<li>🏡 @ B2 UTC 0 (PotKettleBlack) : +10% dark dmg, +20% fire dmg</li>
+<li>🏡 @ B5 UTC 14 (GreenShores) : +4% ward regen, +10% water dmg</li>
+<li>🏡 @ B2 UTC 14 (GreenShores) : +4% accuracy, +15% lightning dmg, 5% life siphon</li>
+<li>🏡 @ B1 UTC 14 (GreenShores) : +4% ward regen, +80% dark res</li>
+<li>🏡 @ B4 UTC 12 (Chiemi Tanaka) : +20% water dmg, +10% fire dmg</li>
+<li>🏡 @ A3 UTC 13 (Chiemi Tanaka) : +15% follower stats, +10% full HP dmg</li>
+</ul>
+<p><strong><strong>Week of 23 Feb</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 8 (Hook) : 2 ward turns, +15% exploit dmg</li>
+<li>🏡 @ A1 UTC 15 (Hook) : +30% arcane dmg, +5% ward regen, +7% water dmg</li>
+<li>🏡 @ B1 UTC 12 (Aon) : +4% accuracy, +10% ward dmg, 5% free cast</li>
+<li>🚶 @ E1 UTC 18 (Aon) : +5% follower protect, +10% dark dmg</li>
+<li>🏡 @ C1 UTC 17 (DKNK) : +20% fire dmg, +20% ward dmg</li>
+<li>🏡 @ A3 UTC 5 (PotKettleBlack) : 4 ward turns, +10% potion heal, +7% follower protect</li>
+<li>🏡 @ A1 UTC 22 (GreenShores) : BB 1, +15% follower stats</li>
+<li>🏡 @ A2 UTC 21 (Bad Horse) : +50% buff duration, +10% follower stats</li>
+<li>🏡 @ B4 UTC 1 (Caer Arcanum 1) : 5 ward turns, +4% accuracy</li>
+<li>🏡 @ C1 UTC 17 (Chiemi Tanaka) : +20% fire dmg, +20% ward dmg</li>
+</ul>
+<p><strong><strong>Week of 02 Mar</strong></strong></p>
+<ul>
+<li>🏡 @ D3 UTC 21 (Jotity) : +20% water dmg, +20% ward dmg</li>
+<li>🏡 @ A2 UTC 0 (Hook) : +50% buff duration, Parapet 20% @ 95% max HP, 60% resist dmg</li>
+<li>🏡 @ A1 UTC 9 (Hook) : hybrid, -15% self dmg, +15% fire dmg</li>
+<li>🏡 @ B1 UTC 21 (Aon) : +5% maximum HP regen, 5 ward turns, +quest monsters</li>
+<li>🏡 @ A4 UTC 16 (Deux) : +3% ward regen, +80% arcane res</li>
+<li>🏡 @ B1 UTC 4 (DKNK) : +4% crit chance, +3% maximum HP regen</li>
+<li>🏡 @ B3 UTC 4 (DKNK) : Parapet 20% @ 100% max HP, +3% ward regen, +15% dmg vs Nothren Forces</li>
+<li>🏡 @ B1 UTC 15 (PotKettleBlack) : Parapet 20% @ 95% max HP, +15% holy dmg</li>
+<li>🏡 @ A2 UTC 12 (GreenShores) : +5% follower protect, 3% free cast, +15% ward dmg</li>
+<li>🚶 @ A1 UTC 2 (Caer Arcanum 2) : +2% maximum HP regen, +20% ward dmg</li>
+<li>🚶 @ B4 UTC 17 (Caer Arcanum 2) : +15% dragon dmg, 5 mana/m, +15% lightning dmg</li>
+<li>🏡 @ B1 UTC 4 (Chiemi Tanaka) : +4% crit chance, +3% maximum HP regen</li>
+<li>🏡 @ B3 UTC 4 (Chiemi Tanaka) : Parapet 20% @ 100% max HP, +3% ward regen, +15% dmg vs Nothren Forces</li>
+</ul>
+<p><strong><strong>Week of 09 Mar</strong></strong></p>
+<ul>
+<li>🚶 @ B5 UTC 18 (Jotity) : +40% buff duration, +80% holy res</li>
+<li>🚶 @ A4 UTC 4 (Aon) : +20% lightning dmg, +15% dark dmg</li>
+<li>🏡 @ A1 UTC 14 (Aon) : +15% summon stats, BB 1, +20% water dmg</li>
+<li>🏡 @ A3 UTC 14 (Aon) : +20% earthen dmg, +4% missing HP regen</li>
+<li>🚶 @ D4 UTC 19 (Tres) : +40% Crit dmg, +3% ward regen, +40% simple attack dmg</li>
+<li>🏡 @ C3 UTC 22 (GreenShores) : +15% full HP dmg, +20% earthen dmg</li>
+<li>🏡 @ A3 UTC 8 (Bad Horse) : +5% missing HP regen, +3% maximum HP regen</li>
+<li>🏡 @ A2 UTC 12 (Bad Horse) : +5% maximum HP regen, +40% Crit dmg, +10% dmg vs ancients</li>
+<li>🏡 @ B5 UTC 3 (Caer Arcanum 1) : +30% arcane dmg, BB 1, +25% simple attack dmg</li>
+<li>🏡 @ A1 UTC 14 (Caer Arcanum 1) : Parapet 20% @ 95% max HP, +4% missing HP regen, +5% ward absorption</li>
+</ul>
+<p><strong><strong>Week of 16 Mar</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 22 (Jotity) : +15% follower stats, +12% faction dmg, -20% dmg from dragons</li>
+<li>🚶 @ A4 UTC 13 (Aon) : +10% fire dmg, 70% resist dmg, Parapet 20% @ 100% max HP</li>
+<li>🚶 @ B4 UTC 15 (Aon) : Parapet 20% @ 95% max HP, +5% missing HP regen</li>
+<li>🏡 @ C4 UTC 17 (Aon) : +15% exploit dmg, +6% follower protect</li>
+<li>🏡 @ B3 UTC 2 (Pompey) : +7% follower protect, +15% exploit dmg, +5% dmg vs ancients</li>
+<li>🚶 @ A2 UTC 21 (GreenShores) : +5% maximum HP regen, +10% holy dmg</li>
+<li>🚶 @ A2 UTC 0 (Bad Horse) : Parapet 20% @ 100% max HP, +15% dragon dmg</li>
+<li>🚶 @ A4 UTC 19 (Bad Horse) : +15% full HP dmg, +15% territory stats</li>
+</ul>
+<p><strong><strong>Week of 23 Mar</strong></strong></p>
+<ul>
+<li>🏡 @ B4 UTC 11 (Amifish) : +50% buff duration, +2% missing HP regen</li>
+<li>🏡 @ A2 UTC 9 (Hook) : 5 ward turns, +20% arcane dmg, +20% dmg vs Lyonesse Forces</li>
+<li>🏡 @ A3 UTC 16 (Hook) : BB 1, +15% dragon dmg</li>
+<li>🚶 @ B4 UTC 12 (Aon) : +50% buff duration, +80% dragon res</li>
+<li>🚶 @ C4 UTC 21 (Aon) : Parapet 20% @ 95% max HP, 5 ward turns, +5% dmg vs animals</li>
+<li>🏡 @ B1 UTC 1 (Tres) : +30% arcane dmg, +3% accuracy</li>
+<li>🚶 @ D4 UTC 9 (Tres) : +30% dragon dmg, +15% earthen dmg</li>
+<li>🚶 @ A2 UTC 20 (Tres) : +15% dark dmg, +15% water dmg</li>
+<li>🏡 @ A2 UTC 20 (DKNK) : +2% accuracy, +15% arcane dmg</li>
+<li>🏡 @ A4 UTC 21 (DKNK) : +15% arcane dmg, Archistaffs proficiency, +15% exploit dmg</li>
+<li>🏡 @ A1 UTC 11 (Pompey) : +20% exploit dmg, +15% dragon dmg, +5% ward regen</li>
+<li>🏡 @ A2 UTC 15 (Pompey) : +20% arcane dmg, +15% dragon dmg</li>
+<li>🏡 @ A3 UTC 0 (PotKettleBlack) : +10% fire dmg, +20% ward dmg</li>
+<li>🚶 @ C3 UTC 18 (PotKettleBlack) : +20% lightning dmg, +10% full HP dmg</li>
+<li>🏡 @ B3 UTC 18 (PotKettleBlack) : +20% lightning dmg, +10% full HP dmg</li>
+<li>🚶 @ A3 UTC 13 (GreenShores) : +6% follower protect, +3% accuracy</li>
+<li>🚶 @ B3 UTC 17 (GreenShores) : +15% fire dmg, Parapet 20% @ 100% max HP</li>
+<li>🏡 @ A2 UTC 12 (Caer Arcanum 1) : +10% lightning dmg, +4% accuracy</li>
+<li>🏡 @ B1 UTC 15 (Caer Arcanum 2) : +40% buff duration, +15% full HP dmg</li>
+<li>🏡 @ C2 UTC 15 (Caer Arcanum 2) : +30% arcane dmg, +10% dark dmg</li>
+<li>🏡 @ B5 UTC 15 (Caer Arcanum 2) : Parapet 20% @ 100% max HP, +quest monsters, +15% dark dmg</li>
+<li>🏡 @ A3 UTC 19 (Caer Arcanum 2) : +30% arcane dmg, +3% maximum HP regen, +20% reflect dmg</li>
+<li>🏡 @ A2 UTC 20 (Chiemi Tanaka) : +2% accuracy, +15% arcane dmg</li>
+<li>🏡 @ A4 UTC 21 (Chiemi Tanaka) : +15% arcane dmg, Archistaffs proficiency, +15% exploit dmg</li>
+</ul>
+<p><strong><strong>Week of 30 Mar</strong></strong></p>
+<ul>
+<li>🏡 @ B4 UTC 5 (Amifish) : +3% accuracy, 3 ward turns</li>
+<li>🚶 @ B3 UTC 11 (Amifish) : +15% dragon dmg, +20% dmg vs Lyonesse Forces, +15% follower stats</li>
+<li>🏡 @ C2 UTC 16 (Amifish) : +25% accessory, +30% arcane dmg, +4% pact power</li>
+<li>🏡 @ A2 UTC 16 (Amifish) : +5% ward regen, +5% ward absorption, +5% orns</li>
+<li>🚶 @ C3 UTC 11 (Deux) : +50% buff duration, +7% follower protect</li>
+<li>🚶 @ B2 UTC 18 (Deux) : +29% arcane dmg, BB 1, +40% Crit dmg</li>
+<li>🏡 @ C3 UTC 13 (Tres) : 5 ward turns, BB 1, +quest monsters</li>
+<li>🏡 @ A2 UTC 18 (PotKettleBlack) : Parapet 20% @ 95% max HP, 2 ward turns, +20% exploit dmg</li>
+<li>🏡 @ C1 UTC 5 (Bad Horse) : Parapet 20% @ 100% max HP, +2% luck, +15% dark dmg</li>
+<li>🏡 @ C2 UTC 5 (Bad Horse) : +5% ward regen, +10% holy dmg</li>
+<li>🏡 @ A3 UTC 21 (Bad Horse) : +40% buff duration, +2% missing HP regen</li>
+</ul>
+<p><strong><strong>Week of 06 Apr</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 7 (Amifish) : hybrid, Parapet 20% @ 95% max HP, +quest monsters</li>
+<li>🏡 @ A3 UTC 5 (Hook) : +20% holy dmg, 5 ward turns</li>
+<li>🏡 @ C3 UTC 6 (Hook) : +15% dragon dmg, +4% missing HP regen</li>
+<li>🚶 @ C4 UTC 15 (Aon) : +2% accuracy, +20% fire dmg</li>
+<li>🚶 @ C1 UTC 15 (Aon) : +15% earthen dmg, +3% ward regen, -5% self dmg</li>
+<li>🚶 @ D4 UTC 17 (Aon) : +30% dragon dmg, BB 1</li>
+<li>🏡 @ B1 UTC 7 (Deux) : +15% follower stats, +3% ward absorption, +15% territory stats</li>
+<li>🏡 @ A3 UTC 7 (Deux) : +5% maximum HP regen, +5% follower protect</li>
+<li>🏡 @ A4 UTC 20 (Deux) : hybrid, Counter 10% dmg @ 5% chance, +80% dark res</li>
+<li>🏡 @ A4 UTC 2 (Tres) : BB 1, +10% fire dmg</li>
+<li>🏡 @ A3 UTC 6 (Pompey) : 5 ward turns, BB 1</li>
+<li>🏡 @ B4 UTC 11 (Bad Horse) : +15% lightning dmg, +10% full HP dmg</li>
+<li>🏡 @ B1 UTC 14 (Caer Arcanum 2) : +3% ward regen, +10% full HP dmg</li>
+<li>🏡 @ A4 UTC 5 (Chronic 1) : +10% faction dmg, +4% maximum HP regen</li>
+<li>🏡 @ A4 UTC 12 (Chronic 3) : +40% Crit dmg, BB 1, -20% dmg from Lyonesse Forces</li>
+</ul>
+<p><strong><strong>Week of 13 Apr</strong></strong></p>
+<ul>
+<li>🚶 @ A1 UTC 16 (Amifish) : 4 ward turns, +6% follower protect</li>
+<li>🚶 @ B4 UTC 2 (Hook) : +20% lightning dmg, +20% ward dmg</li>
+<li>🚶 @ D3 UTC 0 (Aon) : 3 ward turns, +15% ward dmg</li>
+<li>🏡 @ A2 UTC 6 (Aon) : Parapet 20% @ 95% max HP, +5% follower protect, -20% dmg from animals</li>
+<li>🚶 @ B2 UTC 16 (Aon) : +20% exploit dmg, +15% full HP dmg</li>
+<li>🚶 @ C4 UTC 20 (Aon) : +25% accessory, +1% crit chance, +4% accuracy</li>
+<li>🏡 @ A1 UTC 5 (Deux) : +4% accuracy, +3% maximum HP regen</li>
+<li>🏡 @ A2 UTC 5 (Deux) : +30% arcane dmg, +20% earthen dmg, +5% maximum HP regen</li>
+<li>🏡 @ A2 UTC 8 (Deux) : BB 1, +20% lightning dmg</li>
+<li>🚶 @ A4 UTC 13 (Deux) : 5 ward turns, +10% dark dmg</li>
+<li>🏡 @ B1 UTC 17 (Deux) : +5% missing HP regen, +15% territory stats</li>
+<li>🏡 @ A2 UTC 17 (Deux) : +3% accuracy, +10% lightning dmg</li>
+<li>🏡 @ A1 UTC 7 (Tres) : +4% accuracy, +3% maximum HP regen</li>
+<li>🚶 @ A1 UTC 21 (Tres) : +15% exploit dmg, +2% maximum HP regen</li>
+<li>🏡 @ A1 UTC 0 (Pompey) : +5% follower protect, +80% water res, +5% ward regen</li>
+<li>🚶 @ A2 UTC 13 (PotKettleBlack) : +20% water dmg, +4% ward regen, +4% missing HP regen</li>
+<li>🏡 @ A1 UTC 15 (PotKettleBlack) : +15% full HP dmg, +50% buff duration, +5% dmg vs magical creatures</li>
+<li>🏡 @ A3 UTC 16 (PotKettleBlack) : +30% dragon dmg, +2% accuracy</li>
+<li>🏡 @ A4 UTC 4 (GreenShores) : +20% dark dmg, +10% holy dmg</li>
+<li>🏡 @ B4 UTC 16 (GreenShores) : +30% dragon dmg, +10% ward dmg, +3% accuracy</li>
+<li>🏡 @ B2 UTC 2 (RainDinners) : +15% exploit dmg, +20% ward dmg</li>
+<li>🏡 @ A4 UTC 6 (Caer Arcanum 2) : +5% ward regen, +10% exploit dmg</li>
+<li>🏡 @ B4 UTC 17 (Chronic 3) : +15% follower stats, +15% water dmg</li>
+<li>🏡 @ B4 UTC 20 (Chronic 3) : hybrid, +80% dragon res</li>
+</ul>
+<p><strong><strong>Week of 20 Apr</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 18 (Hook) : +40% Crit dmg, +10% territory stats, +20% dark res</li>
+<li>🚶 @ B4 UTC 0 (Aon) : +10% holy dmg, +15% arcane dmg</li>
+<li>🏡 @ A1 UTC 6 (Aon) : +5% missing HP regen, +20% dragon dmg</li>
+<li>🏡 @ A2 UTC 11 (Aon) : +80% arcane res, +4% ward regen</li>
+<li>🏡 @ A3 UTC 2 (Deux) : +15% territory stats, +30% fire res, +2% maximum HP regen</li>
+<li>🚶 @ B2 UTC 12 (Deux) : +10% territory stats, +7% follower protect</li>
+<li>🏡 @ A2 UTC 10 (DKNK) : +20% exploit dmg, +4% crit chance, -15% raid ult dmg</li>
+<li>🏡 @ B1 UTC 9 (Pompey) : +7% follower protect, +10% dmg vs ancients, +2% accuracy</li>
+<li>🏡 @ B3 UTC 16 (Pompey) : +30% dragon dmg, +10% exploit dmg, +20% water dmg</li>
+<li>🏡 @ A1 UTC 6 (GreenShores) : +30% arcane dmg, 4 ward turns</li>
+<li>🏡 @ E3 UTC 13 (GreenShores) : +3% accuracy, +5% maximum HP regen</li>
+<li>🏡 @ B4 UTC 15 (GreenShores) : +20% dragon dmg, +15% lightning dmg</li>
+<li>🏡 @ A4 UTC 10 (RainDinners) : +40% Crit dmg, +10% fire res, +15% territory stats</li>
+<li>🏡 @ A2 UTC 10 (Chiemi Tanaka) : +20% exploit dmg, +4% crit chance, -15% raid ult dmg</li>
+<li>🏡 @ A4 UTC 2 (Chronic 2) : 5 ward turns, +20% exploit dmg</li>
+<li>🏡 @ A2 UTC 2 (Chronic 2) : +30% arcane dmg, +15% exploit dmg, -15% dmg from animals</li>
+</ul>
+<p><strong><strong>Week of 27 Apr</strong></strong></p>
+<ul>
+<li>🏡 @ A5 UTC 8 (Amifish) : +40% Crit dmg, +15% earthen dmg, -2% status effect</li>
+<li>🚶 @ A2 UTC 11 (Aon) : +30% dragon dmg, +80% holy res, +1% crit chance</li>
+<li>🚶 @ D2 UTC 16 (Aon) : +15% fire dmg, +15% water dmg</li>
+<li>🏡 @ A4 UTC 1 (Deux) : +4% accuracy, +2% maximum HP regen</li>
+<li>🏡 @ A3 UTC 4 (Deux) : +30% arcane dmg, +7% follower protect</li>
+<li>🚶 @ A3 UTC 8 (Deux) : +3% missing HP regen, +15% water dmg</li>
+<li>🏡 @ A1 UTC 15 (Deux) : 4 ward turns, +3% missing HP regen</li>
+<li>🏡 @ B2 UTC 9 (Tres) : +12% faction dmg, +10% territory stats</li>
+<li>🏡 @ A3 UTC 13 (Tres) : +15% territory stats, hybrid, +4% experience points</li>
+<li>🚶 @ A1 UTC 18 (Tres) : +15% lightning dmg, +4% accuracy</li>
+<li>🚶 @ C5 UTC 18 (Tres) : +30% arcane dmg, +80% dragon res</li>
+<li>🏡 @ A2 UTC 21 (DKNK) : 4 ward turns, +10% holy dmg</li>
+<li>🚶 @ E4 UTC 2 (Pompey) : +30% dragon dmg, +80% arcane res</li>
+<li>🏡 @ A3 UTC 2 (Pompey) : BB 1, Parapet 20% @ 100% max HP, Counter 5% dmg @ 5% chance</li>
+<li>🏡 @ A1 UTC 12 (Pompey) : Parapet 20% @ 95% max HP, +15% water dmg</li>
+<li>🏡 @ A1 UTC 14 (Pompey) : 3 ward turns, +50% buff duration, Parapet 20% @ 100% max HP</li>
+<li>🏡 @ A1 UTC 15 (Pompey) : +5% maximum HP regen, +80% dark res</li>
+<li>🏡 @ A4 UTC 5 (PotKettleBlack) : +15% follower stats, +20% arcane dmg</li>
+<li>🏡 @ A3 UTC 12 (PotKettleBlack) : BB 1, +5% ward regen</li>
+<li>🏡 @ B2 UTC 19 (GreenShores) : +4% accuracy, +15% arcane dmg</li>
+<li>🏡 @ A2 UTC 22 (RainDinners) : +15% territory stats, +3% missing HP regen</li>
+<li>🏡 @ B3 UTC 13 (Caer Arcanum 2) : +10% holy dmg, +10% follower stats</li>
+<li>🏡 @ B2 UTC 21 (Chronic 1) : +4% accuracy, +15% arcane dmg</li>
+<li>🏡 @ B3 UTC 21 (Chronic 1) : BB 1, +3% accuracy, +5% reflect dmg</li>
+<li>🏡 @ A2 UTC 14 (Chronic 2) : +30% arcane dmg, +15% dark dmg, Axes &amp; Hammers proficiency</li>
+</ul>
+<p><strong><strong>Week of 04 May</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 18 (Amifish) : +15% exploit dmg, +10% follower stats</li>
+<li>🏡 @ A3 UTC 20 (Amifish) : +80% arcane res, +30% earthen res, +10% holy dmg</li>
+<li>🚶 @ B2 UTC 23 (Amifish) : 2 ward turns, +5% follower protect</li>
+<li>🏡 @ A1 UTC 10 (Hook) : +80% holy res, Parapet 20% @ 100% max HP</li>
+<li>🚶 @ D1 UTC 11 (Aon) : +20% water dmg, +10% faction dmg</li>
+<li>🚶 @ C4 UTC 16 (Aon) : +30% dragon dmg, +80% holy res</li>
+<li>🏡 @ A2 UTC 21 (Aon) : +15% full HP dmg, +20% fire dmg</li>
+<li>🏡 @ A4 UTC 15 (Deux) : +15% arcane dmg, +80% dark res</li>
+<li>🚶 @ B1 UTC 22 (DKNK) : +4% maximum HP regen, +10% earthen dmg</li>
+<li>🚶 @ B4 UTC 2 (Pompey) : +3% accuracy, +10% full HP dmg</li>
+<li>🚶 @ A5 UTC 14 (PotKettleBlack) : +30% dragon dmg, +4% accuracy, Reflect 15% dmg @ 2% chance</li>
+<li>🏡 @ A1 UTC 20 (PotKettleBlack) : +30% dragon dmg, +15% fire dmg, 10% status reflect</li>
+<li>🏡 @ A3 UTC 17 (GreenShores) : +15% exploit dmg, +10% follower stats</li>
+<li>🏡 @ B4 UTC 0 (Caer Arcanum 1) : +15% lightning dmg, +10% water dmg</li>
+<li>🏡 @ A1 UTC 2 (Caer Arcanum 2) : +30% arcane dmg, +80% dark res</li>
+<li>🏡 @ B3 UTC 2 (Caer Arcanum 3) : hybrid, +4% follower act, +15% territory stats</li>
+<li>🏡 @ B2 UTC 2 (Chronic 1) : hybrid, +3% maximum HP regen, Axes &amp; Hammers proficiency</li>
+</ul>
+<p><strong><strong>Week of 11 May</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 5 (Jotity) : +5% ward regen, +15% holy dmg, +25% lifesteal</li>
+<li>🏡 @ A4 UTC 3 (Hook) : +4% crit chance, hybrid</li>
+<li>🏡 @ A3 UTC 12 (Hook) : +20% ward dmg, 5 ward turns</li>
+<li>🏡 @ A2 UTC 7 (Aon) : +80% holy res, +40% Crit dmg, -20% dmg from magical creatures</li>
+<li>🏡 @ A3 UTC 7 (Aon) : +15% earthen dmg, +80% holy res</li>
+<li>🏡 @ B2 UTC 11 (Aon) : +10% holy dmg, hybrid</li>
+<li>🏡 @ C2 UTC 12 (Aon) : +5% maximum HP regen, +15% arcane dmg</li>
+<li>🏡 @ B3 UTC 2 (Deux) : +30% arcane dmg, +12% hybrid dmg, +3% missing HP regen</li>
+<li>🏡 @ A4 UTC 21 (Tres) : +4% crit chance, +10% territory stats</li>
+<li>🏡 @ A5 UTC 17 (PotKettleBlack) : +2% maximum HP regen, +4% ward regen</li>
+<li>🏡 @ A4 UTC 5 (RainDinners) : +5% maximum HP regen, +4% accuracy</li>
+<li>🏡 @ A2 UTC 15 (Caer Arcanum 1) : BB 1, +3% missing Mana regen, +3% maximum HP regen</li>
+<li>🏡 @ A4 UTC 15 (Caer Arcanum 1) : 4 ward turns, +10% full HP dmg</li>
+<li>🏡 @ A1 UTC 15 (Caer Arcanum 2) : hybrid, Parapet 20% @ 100% max HP, +2% ward absorption</li>
+<li>🏡 @ C4 UTC 2 (Caer Arcanum 3) : BB 1, +15% earthen dmg</li>
+<li>🏡 @ C3 UTC 2 (Caer Arcanum 3) : +15% full HP dmg, +5% ward regen, +4% missing HP regen</li>
+<li>🏡 @ A4 UTC 20 (Gilia 1) : +50% buff duration, +3% missing HP regen</li>
+</ul>
+<p><strong><strong>Week of 18 May</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 4 (Jotity) : +10% exploit dmg, +20% dmg vs magical creatures, +10% ward dmg</li>
+<li>🏡 @ A2 UTC 19 (Jotity) : +40% Crit dmg, +20% dragon res, +25% accessory</li>
+<li>🏡 @ A1 UTC 7 (Amifish) : BB 1, +15% fire dmg</li>
+<li>🏡 @ A4 UTC 23 (Amifish) : 5 ward turns, +2% maximum Mana regen, +10% faction dmg</li>
+<li>🏡 @ B2 UTC 12 (Hook) : 4 ward turns, +15% territory stats, -10% dmg from dragons</li>
+<li>🏡 @ B1 UTC 22 (Hook) : hybrid, +4% missing HP regen</li>
+<li>🏡 @ A4 UTC 22 (Hook) : +5% maximum HP regen, +15% dmg vs magical creatures, +20% exploit dmg</li>
+<li>🚶 @ C1 UTC 14 (Aon) : 3 ward turns, +3% maximum HP regen</li>
+<li>🏡 @ D1 UTC 17 (Aon) : +10% accessory, +80% dragon res</li>
+<li>🚶 @ C2 UTC 10 (Deux) : 4 ward turns, Parapet 20% @ 100% max HP, -10% dmg from Nothren Forces</li>
+<li>🚶 @ B1 UTC 17 (Deux) : +6% follower protect, 5 ward turns, +20% dmg vs mimics</li>
+<li>🚶 @ C2 UTC 17 (Deux) : +20% earthen dmg, +5% missing HP regen</li>
+<li>🏡 @ A4 UTC 18 (DKNK) : +10% fire dmg, -10% dmg from Balor Forces, +10% dark dmg</li>
+<li>🏡 @ A3 UTC 18 (DKNK) : +40% buff duration, +15% arcane dmg</li>
+<li>🏡 @ A1 UTC 3 (Pompey) : +10% water dmg, +5% ward regen, +3% accuracy</li>
+<li>🏡 @ A1 UTC 4 (Pompey) : 4 ward turns, +3% missing HP regen</li>
+<li>🏡 @ A4 UTC 16 (Pompey) : +6% follower protect, +50% buff duration, +15% exploit dmg</li>
+<li>🏡 @ A2 UTC 1 (PotKettleBlack) : +15% territory stats, +10% water dmg</li>
+<li>🏡 @ A3 UTC 3 (PotKettleBlack) : +4% ward regen, +4% missing HP regen</li>
+<li>🏡 @ A2 UTC 1 (GreenShores) : +15% dark dmg, +10% exploit dmg</li>
+<li>🏡 @ A1 UTC 23 (GreenShores) : +4% ward regen, +15% earthen dmg</li>
+<li>🏡 @ B2 UTC 2 (Bad Horse) : +15% full HP dmg, +15% ward dmg</li>
+<li>🏡 @ A3 UTC 16 (Bad Horse) : +20% dark dmg, +12% faction dmg</li>
+<li>🏡 @ A3 UTC 16 (Caer Arcanum 2) : +40% Crit dmg, +20% exploit dmg, Counter 10% dmg @ 2% chance</li>
+<li>🏡 @ A4 UTC 11 (Caer Arcanum 3) : +15% full HP dmg, +10% ward dmg</li>
+<li>🏡 @ C1 UTC 14 (Gilia 1) : +4% accuracy, 4 ward turns</li>
+</ul>
+<p><strong><strong>Week of 25 May</strong></strong></p>
+<ul>
+<li>🏡 @ B1 UTC 14 (Aon) : BB 1, +4% accuracy, +20% lightning res</li>
+<li>🏡 @ B1 UTC 19 (Deux) : +10% holy dmg, BB 1</li>
+<li>🏡 @ B4 UTC 1 (Pompey) : Parapet 20% @ 95% max HP, +15% arcane dmg</li>
+<li>🚶 @ B3 UTC 14 (Pompey) : +15% territory stats, +20% lightning dmg</li>
+<li>🏡 @ B2 UTC 10 (PotKettleBlack) : +2% accuracy, +20% arcane dmg</li>
+<li>🏡 @ B2 UTC 14 (PotKettleBlack) : +15% follower stats, +80% dark res, 1% ignore ward</li>
+<li>🏡 @ A4 UTC 17 (GreenShores) : +5% ward regen, +10% lightning dmg</li>
+<li>🏡 @ B3 UTC 18 (GreenShores) : BB 1, +5% territory stats, +100% memory rewards</li>
+<li>🏡 @ B1 UTC 14 (Caer Arcanum 1) : +20% fire dmg, 3 ward turns</li>
+</ul>
+<p><strong><strong>Week of 01 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ B2 UTC 20 (Amifish) : +20% lightning dmg, +2% missing HP regen</li>
+<li>🏡 @ A3 UTC 1 (Deux) : BB 1, +10% follower stats, +8% summon stats</li>
+<li>🏡 @ A2 UTC 3 (Deux) : +25% accessory, +15% earthen dmg, -20% dmg from magical creatures</li>
+<li>🏡 @ A3 UTC 9 (Deux) : +20% fire dmg, +2% accuracy, +1% ward absorption</li>
+<li>🚶 @ B1 UTC 14 (Deux) : +4% accuracy, +15% full HP dmg, -5% dmg from dragons</li>
+<li>🚶 @ B2 UTC 21 (Deux) : 5 ward turns, +10% territory stats</li>
+<li>🏡 @ A3 UTC 8 (DKNK) : +80% holy res, +6% follower protect</li>
+<li>🏡 @ A1 UTC 23 (DKNK) : Parapet 20% @ 95% max HP, +20% holy dmg</li>
+<li>🏡 @ B4 UTC 3 (Pompey) : Parapet 20% @ 100% max HP, +2% accuracy</li>
+<li>🏡 @ A4 UTC 17 (Pompey) : +20% water dmg, +5% follower protect</li>
+<li>🏡 @ A4 UTC 18 (PotKettleBlack) : +40% Crit dmg, +30% dragon dmg, Reflect 15% dmg @ 5% chance</li>
+<li>🏡 @ A4 UTC 19 (PotKettleBlack) : +3% maximum HP regen, +15% dragon dmg</li>
+<li>🏡 @ A3 UTC 19 (PotKettleBlack) : +15% full HP dmg, +5% ward regen, +10% dmg vs animals</li>
+<li>🚶 @ C4 UTC 2 (GreenShores) : 5 ward turns, +10% ward dmg</li>
+<li>🏡 @ A3 UTC 6 (GreenShores) : +4% maximum HP regen, +40% Crit dmg, +50% quest rewards</li>
+<li>🏡 @ B3 UTC 6 (Bad Horse) : +20% ward dmg, +20% holy dmg</li>
+</ul>
+<p><strong><strong>Week of 08 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 21 (Aon) : +5% maximum HP regen, +10% holy dmg</li>
+<li>🏡 @ A5 UTC 12 (DKNK) : hybrid, Arch Alchemy, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ B3 UTC 19 (DKNK) : +7% follower protect, +80% arcane res, +4% maximum Mana regen</li>
+<li>🏡 @ A4 UTC 3 (PotKettleBlack) : +5% ward regen, +3% missing HP regen, Archistaffs proficiency</li>
+<li>🏡 @ A4 UTC 11 (PotKettleBlack) : +15% follower stats, BB 1</li>
+<li>🏡 @ A2 UTC 14 (GreenShores) : +40% buff duration, Parapet 20% @ 100% max HP, +10% dark dmg</li>
+<li>🏡 @ C4 UTC 23 (Bad Horse) : +20% lightning dmg, +10% earthen dmg</li>
+<li>🏡 @ A2 UTC 3 (Caer Arcanum 1) : +5% ward regen, +20% reflect dmg, 4 ward turns</li>
+<li>🏡 @ B4 UTC 11 (Gilia 1) : Parapet 20% @ 100% max HP, +2% accuracy</li>
+</ul>
+<p><strong><strong>Week of 15 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 2 (Jotity) : +30% arcane dmg, +15% follower stats, +10% ward dmg</li>
+<li>🏡 @ B2 UTC 15 (Jotity) : +20% ward dmg, 4 ward turns</li>
+<li>🏡 @ B4 UTC 16 (Deux) : +6% follower protect, BB 1</li>
+<li>🚶 @ A1 UTC 1 (Tres) : +25% lifesteal, +2% accuracy, +10% faction dmg</li>
+<li>🏡 @ A2 UTC 11 (Tres) : 5 ward turns, 3% status reflect, +15% dragon dmg</li>
+<li>🏡 @ A3 UTC 2 (DKNK) : +4% maximum HP regen, +10% earthen dmg</li>
+<li>🏡 @ B3 UTC 5 (DKNK) : +40% Crit dmg, Parapet 20% @ 100% max HP, +3% follower protect</li>
+<li>🏡 @ A2 UTC 19 (Pompey) : BB 1, +20% lightning dmg, +15% dragon dmg</li>
+<li>🏡 @ A2 UTC 0 (PotKettleBlack) : +20% fire dmg, +10% holy dmg</li>
+<li>🏡 @ A4 UTC 15 (GreenShores) : BB 1, +80% arcane res</li>
+<li>🏡 @ B3 UTC 14 (RainDinners) : +30% arcane dmg, +10% accessory, -20% dmg from magical creatures</li>
+</ul>
+<p><strong><strong>Week of 22 Jun</strong></strong></p>
+<ul>
+<li>🚶 @ E1 UTC 14 (Aon) : +3% missing HP regen, 3 ward turns</li>
+<li>🏡 @ A3 UTC 14 (Aon) : +25% accessory, +10% full HP dmg, 5 mana/m</li>
+<li>🚶 @ D3 UTC 10 (Deux) : +30% dragon dmg, 5 ward turns</li>
+<li>🏡 @ C1 UTC 12 (Deux) : +15% territory stats, +80% arcane res</li>
+<li>🏡 @ B4 UTC 19 (Deux) : +3% ward regen, 2 ward turns</li>
+<li>🏡 @ A1 UTC 9 (Tres) : +6% follower protect, +20% ward dmg</li>
+<li>🏡 @ B2 UTC 2 (DKNK) : +5% missing HP regen, +4% crit chance</li>
+<li>🏡 @ B2 UTC 13 (DKNK) : +15% territory stats, +15% lightning dmg</li>
+<li>🚶 @ A1 UTC 16 (DKNK) : +50% buff duration, +6% follower protect, -5% dmg from the Undead Horde.</li>
+<li>🏡 @ B4 UTC 17 (DKNK) : +15% follower stats, +50% buff duration, +5% dmg vs ancients</li>
+<li>🏡 @ A2 UTC 0 (Pompey) : +10% ward dmg, +15% dragon dmg</li>
+<li>🏡 @ A2 UTC 22 (Pompey) : +40% Crit dmg, +20% dark dmg, +30% dragon dmg</li>
+<li>🏡 @ C2 UTC 0 (PotKettleBlack) : +15% arcane dmg, +15% dark dmg</li>
+<li>🏡 @ B3 UTC 0 (PotKettleBlack) : 5 ward turns, +3% maximum HP regen, Parapet 10% @ 90% max HP</li>
+<li>🏡 @ A1 UTC 16 (PotKettleBlack) : 5 ward turns, +quest monsters, +20% arcane dmg</li>
+<li>🏡 @ A3 UTC 11 (RainDinners) : +5% missing HP regen, +15% exploit dmg</li>
+<li>🏡 @ A1 UTC 22 (RainDinners) : +10% earthen dmg, +5% maximum HP regen, 2 mana/m</li>
+<li>🏡 @ C2 UTC 14 (Caer Arcanum 2) : +20% water dmg, +2% accuracy, +40% simple attack dmg</li>
+<li>🏡 @ A4 UTC 0 (Caer Arcanum 3) : BB 1, +20% water dmg</li>
+<li>🏡 @ B4 UTC 4 (Chiemi Tanaka) : +30% dragon dmg, +15% arcane dmg, +3% missing HP regen</li>
+<li>🏡 @ A2 UTC 16 (Gilia 1) : +20% dragon dmg, +15% full HP dmg</li>
+</ul>
+<p><strong><strong>Week of 29 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 19 (Amifish) : +40% Crit dmg, +12% faction dmg, Counter 10% dmg @ 5% chance</li>
+<li>🏡 @ A2 UTC 0 (Aon) : Parapet 20% @ 100% max HP, +15% holy dmg</li>
+<li>🏡 @ B1 UTC 1 (Aon) : +30% arcane dmg, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ A4 UTC 1 (Aon) : +30% dragon dmg, +10% dark dmg, +10% dmg vs Nothren Forces</li>
+<li>🏡 @ B4 UTC 16 (Aon) : +15% earthen dmg, -5% status effect, +80% holy res</li>
+<li>🏡 @ A4 UTC 5 (Deux) : +30% arcane dmg, +15% fire dmg</li>
+<li>🏡 @ B3 UTC 18 (Tres) : +80% dark res, +7% holy dmg, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ A4 UTC 23 (Tres) : hybrid, +5% maximum HP regen, +65% spawn rate</li>
+<li>🏡 @ A1 UTC 2 (DKNK) : Parapet 20% @ 100% max HP, +15% ward dmg, -10% dmg from animals</li>
+<li>🏡 @ B2 UTC 6 (Pompey) : +10% dark dmg, +15% full HP dmg</li>
+<li>🏡 @ A4 UTC 6 (Pompey) : +7% water dmg, 4 ward turns, BB 1</li>
+<li>🏡 @ A3 UTC 14 (Pompey) : +80% holy res, BB 1</li>
+<li>🏡 @ A4 UTC 23 (Pompey) : +50% buff duration, +10% holy dmg</li>
+<li>🏡 @ B1 UTC 7 (Bad Horse) : +4% maximum HP regen, +15% territory stats</li>
+<li>🏡 @ B3 UTC 7 (Bad Horse) : 5 ward turns, +4% ward regen</li>
+<li>🏡 @ A2 UTC 11 (Caer Arcanum 1) : 2 ward turns, +10% holy res, +20% ward dmg</li>
+<li>🏡 @ B4 UTC 19 (Caer Arcanum 3) : +15% territory stats, 3 ward turns, 20 AA mana steal</li>
+<li>🏡 @ A2 UTC 5 (Chronic 1) : +10% full HP dmg, +20% fire res, Parapet 20% @ 100% max HP</li>
+<li>🏡 @ A4 UTC 7 (Chronic 1) : +15% full HP dmg, 2 ward turns, +15% dmg vs animals</li>
+<li>🏡 @ A2 UTC 18 (Chronic 1) : +20% exploit dmg, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ A3 UTC 0 (Chronic 2) : +15% exploit dmg, +5% missing HP regen</li>
+<li>🏡 @ A2 UTC 14 (Chronic 3) : +20% ward dmg, +50% spawn rate, +5% missing HP regen</li>
+<li>🏡 @ A4 UTC 14 (Chronic 3) : +5% water dmg, +4% maximum HP regen, +15% follower stats</li>
+</ul>
+<p><strong><strong>Week of 06 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ B3 UTC 2 (Jotity) : +15% follower stats, 2 ward turns, +15% limit break dmg</li>
+<li>🏡 @ A2 UTC 21 (Hook) : hybrid, +2% missing HP regen</li>
+<li>🏡 @ A3 UTC 21 (Hook) : 4 ward turns, +15% lightning dmg</li>
+<li>🏡 @ A2 UTC 23 (Hook) : 4 ward turns, +30% arcane dmg</li>
+<li>🏡 @ B3 UTC 16 (Deux) : +20% exploit dmg, +10% lightning dmg</li>
+<li>🏡 @ B2 UTC 20 (Deux) : +15% full HP dmg, +4% ward regen, -13% self dmg</li>
+<li>🏡 @ A3 UTC 13 (Pompey) : +5% ward regen, +15% holy dmg, +20% ward dmg</li>
+<li>🏡 @ A1 UTC 18 (Pompey) : Parapet 20% @ 95% max HP, +4% double cast chance, +15% earthen dmg</li>
+<li>🏡 @ A2 UTC 11 (PotKettleBlack) : hybrid, +3% missing HP regen, +15% dragon dmg</li>
+<li>🏡 @ A1 UTC 4 (GreenShores) : +50% buff duration, +12% faction dmg, +5% dmg vs dragons</li>
+<li>🏡 @ A2 UTC 2 (RainDinners) : +15% arcane dmg, +20% exploit dmg</li>
+<li>🏡 @ B1 UTC 19 (RainDinners) : +5% ward regen, 5 ward turns, +10% territory stats</li>
+<li>🏡 @ A3 UTC 21 (RainDinners) : +2% maximum HP regen, hybrid</li>
+<li>🏡 @ A4 UTC 12 (Chiemi Tanaka) : +15% arcane dmg, +2% missing HP regen, -7% mana consumption</li>
+<li>🏡 @ A3 UTC 14 (Amity Jackpot) : +80% dragon res, +20% holy dmg</li>
+<li>🏡 @ A3 UTC 10 (Gilia 1) : BB 1, +20% fire dmg</li>
+<li>🏡 @ A2 UTC 4 (Chronic 1) : Parapet 20% @ 95% max HP, +15% water dmg, 2% ward convertion</li>
+</ul>
+<p><strong><strong>Week of 13 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 10 (Amifish) : +10% exploit dmg, +5% view distance</li>
+<li>🚶 @ D4 UTC 18 (Amifish) : +3% maximum HP regen, +20% exploit dmg</li>
+<li>🚶 @ B2 UTC 18 (Amifish) : +12% faction dmg, hybrid</li>
+<li>🏡 @ B2 UTC 20 (Hook) : Parapet 20% @ 100% max HP, 30% recharge, +4% ward regen</li>
+<li>🏡 @ A1 UTC 9 (Aon) : +15% dragon dmg, 2 HP/m, +10% ward dmg</li>
+<li>🚶 @ B2 UTC 22 (Aon) : +10% follower stats, +80% dark res</li>
+<li>🏡 @ A2 UTC 22 (Aon) : +80% arcane res, +20% exploit dmg, +20% dragon dmg</li>
+<li>🚶 @ D4 UTC 0 (Deux) : 5 ward turns, +10% follower stats, +100% lifesteal</li>
+<li>🏡 @ A2 UTC 4 (Deux) : +15% full HP dmg, +20% fire dmg</li>
+<li>🚶 @ D2 UTC 11 (Deux) : +10% follower stats, +15% earthen dmg</li>
+<li>🚶 @ D2 UTC 13 (Deux) : +20% ward dmg, +20% arcane dmg</li>
+<li>🚶 @ A1 UTC 0 (Tres) : +6% follower protect, +30% dragon dmg</li>
+<li>🏡 @ A1 UTC 11 (Tres) : 4 ward turns, +4% ward regen</li>
+<li>🏡 @ A2 UTC 11 (Tres) : +15% earthen dmg, +30% dragon dmg</li>
+<li>🏡 @ B1 UTC 23 (Tres) : Parapet 20% @ 100% max HP, +10% water dmg</li>
+<li>🏡 @ A4 UTC 16 (PotKettleBlack) : +40% buff duration, +10% holy dmg</li>
+<li>🏡 @ C1 UTC 3 (GreenShores) : +15% follower stats, +10% ward dmg</li>
+<li>🏡 @ A3 UTC 6 (GreenShores) : +20% exploit dmg, +10% water dmg</li>
+<li>🏡 @ A2 UTC 21 (Bad Horse) : +15% territory stats, +40% Crit dmg, -20% dmg from dragons</li>
+<li>🏡 @ B4 UTC 21 (Bad Horse) : +80% dragon res, +15% exploit dmg</li>
+<li>🏡 @ A4 UTC 21 (Bad Horse) : +40% Crit dmg, +3% double cast chance, +20% fire dmg</li>
+<li>🏡 @ B3 UTC 21 (Bad Horse) : 1% ignore ward, BB 1, hybrid</li>
+<li>🏡 @ A1 UTC 4 (RainDinners) : +25% accessory, +80% dragon res, +10% territory stats</li>
+<li>🏡 @ A1 UTC 6 (RainDinners) : +20% lightning dmg, +20% dmg vs animals, +3% maximum HP regen</li>
+<li>🏡 @ A4 UTC 15 (RainDinners) : +15% dragon dmg, +5% maximum HP regen</li>
+<li>🏡 @ A3 UTC 22 (RainDinners) : +80% dragon res, +3% missing HP regen</li>
+<li>🏡 @ B2 UTC 11 (Caer Arcanum 1) : +15% territory stats, +3% missing HP regen, +2% maximum HP regen</li>
+<li>🏡 @ A4 UTC 12 (Caer Arcanum 1) : +4% ward regen, +5% missing HP regen, +4% missing Mana regen</li>
+<li>🏡 @ A4 UTC 7 (Caer Arcanum 2) : +20% earthen dmg, +20% arcane dmg</li>
+<li>🏡 @ A3 UTC 7 (Caer Arcanum 2) : +15% full HP dmg, +12% faction dmg</li>
+<li>🏡 @ A1 UTC 10 (Caer Arcanum 3) : +20% ward dmg, +20% earthen dmg</li>
+<li>🏡 @ B4 UTC 10 (Caer Arcanum 3) : 5 ward turns, +15% ward dmg</li>
+<li>🏡 @ A4 UTC 5 (Chiemi Tanaka) : +20% lightning dmg, +1% call response, +20% dragon dmg</li>
+<li>🏡 @ A4 UTC 1 (Amity Jackpot) : +5% ward regen, +15% water dmg</li>
+<li>🏡 @ A1 UTC 1 (Amity Jackpot) : 15% recharge, +5% earthen dmg, +25% accessory</li>
+<li>🏡 @ B1 UTC 16 (Amity Jackpot) : +10% lightning dmg, BB 1</li>
+<li>🏡 @ A1 UTC 23 (Chronic 3) : +80% arcane res, 5 ward turns, 3% status reflect</li>
+</ul>
+<p><strong><strong>Week of 20 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 2 (Jotity) : +30% dragon dmg, +4% crit chance</li>
+<li>🏡 @ A4 UTC 20 (Aon) : +20% earthen dmg, +15% follower stats</li>
+<li>🏡 @ D3 UTC 20 (Aon) : +5% maximum HP regen, +4% experience points, 2 ward turns</li>
+<li>🏡 @ D3 UTC 5 (Deux) : +4% accuracy, +5% missing HP regen, 10 mana/m</li>
+<li>🏡 @ A4 UTC 20 (DKNK) : +4% maximum HP regen, +2% accuracy</li>
+<li>🏡 @ A3 UTC 23 (DKNK) : +5% missing HP regen, +20% ward dmg</li>
+<li>🏡 @ B2 UTC 1 (Pompey) : +15% full HP dmg, +5% maximum HP regen, +20% dark dmg</li>
+<li>🏡 @ A4 UTC 3 (GreenShores) : BB 1, +4% maximum Mana regen, +10% holy dmg</li>
+<li>🏡 @ A3 UTC 3 (GreenShores) : +4% crit chance, +15% arcane dmg</li>
+<li>🏡 @ A5 UTC 2 (RainDinners) : +15% holy dmg, +20% lightning dmg</li>
+<li>🏡 @ C3 UTC 12 (Gilia 1) : Parapet 20% @ 95% max HP, +10% ward dmg</li>
+</ul>
+<p><strong><strong>Week of 27 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ E2 UTC 2 (Aon) : 5 ward turns, +10% holy dmg</li>
+<li>🏡 @ D1 UTC 11 (Deux) : hybrid, +15% territory stats</li>
+<li>🏡 @ B4 UTC 19 (Deux) : 5 ward turns, +80% arcane res</li>
+<li>🏡 @ C3 UTC 21 (Deux) : +15% ward dmg, +12% faction dmg</li>
+<li>🏡 @ D2 UTC 21 (Deux) : Parapet 20% @ 100% max HP, +5% ward regen, -10% dmg from the Undead Horde.</li>
+<li>🏡 @ C2 UTC 9 (Tres) : +80% dark res, +20% dark dmg</li>
+<li>🚶 @ C1 UTC 8 (DKNK) : +15% water dmg, +10% territory stats</li>
+<li>🚶 @ D2 UTC 8 (DKNK) : +5% maximum HP regen, +4% missing HP regen</li>
+<li>🏡 @ A3 UTC 11 (DKNK) : +20% dragon dmg, +4% missing HP regen</li>
+<li>🏡 @ A2 UTC 4 (GreenShores) : +80% holy res, +50% lifesteal, +2% missing HP regen</li>
+<li>🏡 @ B4 UTC 20 (GreenShores) : +10% accessory, +10% dark dmg</li>
+<li>🏡 @ A3 UTC 21 (GreenShores) : +20% dragon dmg, +10% water dmg</li>
+<li>🏡 @ A5 UTC 21 (GreenShores) : BB 1, +30% arcane dmg, +50% lifesteal</li>
+</ul>
+<p><strong><strong>Week of 03 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ D3 UTC 7 (Aon) : +15% ward dmg, +20% fire res, +20% arcane dmg</li>
+<li>🏡 @ C3 UTC 7 (Aon) : +20% exploit dmg, +2% missing HP regen</li>
+<li>🚶 @ C2 UTC 12 (Aon) : 5 ward turns, Parapet 20% @ 95% max HP, -10% dmg from Nothren Forces</li>
+<li>🏡 @ B2 UTC 12 (Deux) : +80% dark res, +10% full HP dmg</li>
+<li>🏡 @ B1 UTC 12 (Deux) : +80% arcane res, +3% accuracy</li>
+<li>🏡 @ B3 UTC 12 (Deux) : +30% dragon dmg, 5 ward turns, +80% earthen res</li>
+<li>🏡 @ D2 UTC 14 (Deux) : +10% exploit dmg, +15% dragon dmg</li>
+<li>🏡 @ B4 UTC 15 (Pompey) : +10% lightning dmg, +15% earthen dmg</li>
+<li>🏡 @ A4 UTC 20 (Pompey) : 4 ward turns, +80% dragon res, +1% doublecast effectiveness</li>
+<li>🏡 @ A2 UTC 9 (PotKettleBlack) : +25% accessory, +80% dragon res, +12% hybrid dmg</li>
+<li>🏡 @ A2 UTC 22 (RainDinners) : +5% missing HP regen, +20% ward dmg, Greatbows proficiency</li>
+</ul>
+<p><strong><strong>Week of 10 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 13 (Jotity) : BB 1, +3% accuracy</li>
+<li>🏡 @ B4 UTC 20 (Jotity) : +7% follower protect, +15% follower stats</li>
+<li>🚶 @ B4 UTC 12 (Aon) : +5% ward regen, +4% missing HP regen</li>
+<li>🏡 @ C4 UTC 14 (Aon) : hybrid, +4% missing HP regen, +100% lifesteal</li>
+<li>🏡 @ A1 UTC 9 (Deux) : +10% water dmg, +4% accuracy</li>
+<li>🏡 @ B2 UTC 3 (DKNK) : +20% ward dmg, +80% arcane res</li>
+<li>🏡 @ A3 UTC 2 (Pompey) : hybrid, +15% follower stats, BB 1</li>
+<li>🏡 @ A3 UTC 5 (Pompey) : +80% arcane res, +20% dragon dmg</li>
+<li>🏡 @ A4 UTC 7 (Pompey) : +6% follower protect, +10% water dmg, +20% dmg vs Lyonesse Forces</li>
+<li>🏡 @ C3 UTC 2 (PotKettleBlack) : +40% Crit dmg, +10% fire dmg, +3% ward regen</li>
+<li>🏡 @ A1 UTC 4 (PotKettleBlack) : +40% Crit dmg, +15% territory stats, +5% luck</li>
+<li>🏡 @ A4 UTC 12 (PotKettleBlack) : +10% ward dmg, +10% earthen dmg</li>
+<li>🏡 @ A5 UTC 16 (Bad Horse) : +30% arcane dmg, +40% Crit dmg, +30% summon stats</li>
+<li>🏡 @ B3 UTC 19 (Bad Horse) : +5% ward regen, +3% maximum HP regen</li>
+<li>🚶 @ A4 UTC 23 (Bad Horse) : +15% water dmg, +15% dragon dmg</li>
+<li>🚶 @ A3 UTC 23 (Bad Horse) : +4% accuracy, +10% follower stats</li>
+<li>🏡 @ A2 UTC 23 (RainDinners) : +20% fire dmg, +10% full HP dmg</li>
+<li>🏡 @ A3 UTC 3 (Caer Arcanum 2) : +20% earthen dmg, +20% exploit dmg</li>
+<li>🏡 @ A1 UTC 13 (Chiemi Tanaka) : 5 ward turns, +2% maximum HP regen</li>
+<li>🏡 @ B2 UTC 6 (Amity Jackpot) : +5% ward regen, -15% dmg from Nothren Forces, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ A2 UTC 14 (Amity Jackpot) : +4% accuracy, +20% dragon dmg</li>
+<li>🏡 @ A4 UTC 1 (Gilia 1) : +30% arcane dmg, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ A2 UTC 6 (Gilia 1) : 5 ward turns, +2% missing HP regen</li>
+</ul>
+<p><strong><strong>Week of 17 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 4 (Jotity) : +15% exploit dmg, +20% earthen dmg, +2% view distance</li>
+<li>🚶 @ C3 UTC 4 (Deux) : +40% Crit dmg, +4% maximum HP regen, +20% holy dmg</li>
+<li>🚶 @ E1 UTC 13 (Deux) : +40% Crit dmg, +20% ward dmg, -15% dmg from animals</li>
+<li>🚶 @ D2 UTC 20 (Deux) : +3% accuracy, +40% Crit dmg, +40% simple attack dmg</li>
+<li>🚶 @ A3 UTC 14 (Tres) : 2 ward turns, +4% ward regen</li>
+<li>🚶 @ E3 UTC 15 (Tres) : 4 ward turns, Parapet 20% @ 95% max HP, +5% missing HP regen</li>
+<li>🏡 @ A1 UTC 5 (DKNK) : Parapet 20% @ 95% max HP, +4% missing HP regen, +7% faction dmg</li>
+<li>🏡 @ B1 UTC 6 (DKNK) : +50% buff duration, +15% ward dmg, +10% dmg vs the Undead Horde</li>
+<li>🏡 @ A1 UTC 23 (DKNK) : +4% accuracy, +2% maximum HP regen</li>
+<li>🏡 @ A1 UTC 10 (PotKettleBlack) : +30% dragon dmg, +15% fire dmg, 2% ignore ward</li>
+<li>🏡 @ C3 UTC 8 (GreenShores) : +15% follower stats, +3% missing HP regen</li>
+<li>🏡 @ A2 UTC 0 (RainDinners) : 2% ignore ward, +15% dragon dmg, +15% full HP dmg</li>
+<li>🏡 @ A3 UTC 8 (Caer Arcanum 3) : 5 ward turns, +2% double cast chance, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ B1 UTC 8 (Amity Jackpot) : +15% earthen dmg, +4% accuracy</li>
+<li>🏡 @ C3 UTC 22 (Amity Jackpot) : +5% maximum HP regen, +10% dmg vs magical creatures, Parapet 20% @ 100% max HP</li>
+</ul>
+<p><strong><strong>Week of 24 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 17 (Jotity) : +5% maximum HP regen, +4% missing Mana regen, +15% fire dmg</li>
+<li>🏡 @ A1 UTC 7 (Amifish) : +10% ward dmg, +15% dark dmg</li>
+<li>🏡 @ A2 UTC 22 (Amifish) : +6% follower protect, +80% arcane res</li>
+<li>🏡 @ C2 UTC 11 (Hook) : +30% dragon dmg, +15% exploit dmg</li>
+<li>🏡 @ B5 UTC 11 (Hook) : +5% ward regen, +30% dragon dmg, +5% dmg vs dragons</li>
+<li>🚶 @ B1 UTC 4 (Aon) : +30% dragon dmg, +2% maximum HP regen</li>
+<li>🚶 @ B3 UTC 11 (Aon) : +5% ward regen, +2% maximum HP regen</li>
+<li>🚶 @ B4 UTC 11 (Aon) : +2% double cast chance, +15% fire dmg, +15% arcane dmg</li>
+<li>🏡 @ A2 UTC 8 (Pompey) : +30% dragon dmg, +10% fire dmg</li>
+<li>🏡 @ A1 UTC 8 (Pompey) : +5% missing HP regen, +10% ward dmg</li>
+<li>🏡 @ A3 UTC 5 (PotKettleBlack) : +5% maximum HP regen, +10% fire dmg</li>
+<li>🏡 @ A3 UTC 7 (PotKettleBlack) : hybrid, +3% missing HP regen</li>
+<li>🏡 @ C3 UTC 10 (PotKettleBlack) : +10% territory stats, +50% buff duration</li>
+<li>🏡 @ A2 UTC 1 (GreenShores) : +80% arcane res, +10% full HP dmg</li>
+<li>🏡 @ A4 UTC 11 (GreenShores) : +5% missing HP regen, 5 mana/m, +4% accuracy</li>
+<li>🏡 @ A2 UTC 23 (GreenShores) : +10% ward dmg, +2% accuracy</li>
+<li>🏡 @ B3 UTC 11 (Chiemi Tanaka) : 5 ward turns, +2% missing Mana regen, +15% fire dmg</li>
+<li>🏡 @ B4 UTC 9 (Amity Jackpot) : +15% holy dmg, 3 ward turns</li>
+<li>🏡 @ A2 UTC 22 (Amity Jackpot) : +80% arcane res, +30% arcane dmg, -20% raid ult dmg</li>
+<li>🏡 @ A4 UTC 21 (Gilia 1) : +6% follower protect, +4% ward regen</li>
+<li>🏡 @ A1 UTC 23 (Gilia 1) : +15% earthen dmg, +7% holy dmg, +40% buff duration</li>
+</ul>
+<p><strong><strong>Week of 31 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 6 (Jotity) : 4 ward turns, +4% maximum HP regen, +3% luck</li>
+<li>🏡 @ B4 UTC 16 (Jotity) : hybrid, +80% dark res</li>
+<li>🏡 @ B2 UTC 17 (Jotity) : +5% ward regen, +10% accessory, 60% resist dmg</li>
+<li>🏡 @ A3 UTC 12 (Deux) : BB 1, +10% faction dmg</li>
+<li>🚶 @ B2 UTC 16 (Deux) : +80% dragon res, BB 1</li>
+<li>🏡 @ B1 UTC 3 (PotKettleBlack) : +30% arcane dmg, +5% maximum HP regen</li>
+<li>🏡 @ B4 UTC 5 (Bad Horse) : 2% ignore ward, +4% maximum HP regen, +20% fire dmg</li>
+<li>🏡 @ A1 UTC 19 (Bad Horse) : +20% lightning dmg, +15% territory stats</li>
+<li>🏡 @ B3 UTC 2 (RainDinners) : Parapet 20% @ 100% max HP, +80% dark res</li>
+<li>🏡 @ B1 UTC 2 (Caer Arcanum 2) : +30% arcane dmg, +4% missing HP regen</li>
+<li>🏡 @ A3 UTC 8 (Chiemi Tanaka) : +10% lightning dmg, +15% exploit dmg</li>
+<li>🏡 @ A3 UTC 19 (Amity Jackpot) : +20% earthen dmg, hybrid, -15% raid ult dmg</li>
+</ul>
+<p><strong><strong>Week of 07 Sep</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 16 (Jotity) : +80% arcane res, +5% maximum HP regen</li>
+<li>🏡 @ A4 UTC 18 (Amifish) : +30% arcane dmg, +10% ward dmg</li>
+<li>🏡 @ A4 UTC 19 (Amifish) : +50% buff duration, BB 1, -20% dmg from Lyonesse Forces</li>
+<li>🚶 @ C2 UTC 19 (Amifish) : +7% follower protect, -5% status effect, +5% ward regen</li>
+<li>🏡 @ A1 UTC 18 (Aon) : +5% maximum HP regen, +5% view distance, 4% ward convertion</li>
+<li>🚶 @ A1 UTC 22 (Aon) : BB 1, +20% dark dmg, Archistaffs proficiency</li>
+<li>🏡 @ B5 UTC 7 (Tres) : +15% dragon dmg, +30% lightning res, +10% holy dmg</li>
+<li>🏡 @ A4 UTC 15 (Tres) : +15% territory stats, Parapet 20% @ 95% max HP, -10% dmg from the Undead Horde.</li>
+<li>🚶 @ C4 UTC 21 (Tres) : +10% fire dmg, +15% follower stats</li>
+<li>🏡 @ A4 UTC 4 (DKNK) : +5% maximum HP regen, +5% follower protect, +5% ward regen</li>
+<li>🏡 @ A2 UTC 12 (DKNK) : hybrid, +5% dmg vs animals, +5% ward regen</li>
+<li>🏡 @ A1 UTC 15 (DKNK) : There is a chance that you will recover HP from 4.0% of the damage dealt to an opponent, +50% buff duration, +15% ward dmg</li>
+<li>🏡 @ A4 UTC 0 (Pompey) : +5% missing HP regen, Parapet 20% @ 100% max HP</li>
+<li>🏡 @ A1 UTC 11 (Pompey) : +7% follower protect, Counter 10% dmg @ 5% chance, +10% water dmg</li>
+<li>🏡 @ A2 UTC 11 (Pompey) : +80% dragon res, +4% crit chance</li>
+<li>🏡 @ A2 UTC 12 (Pompey) : +15% ward dmg, hybrid, Bows proficiency</li>
+<li>🏡 @ A1 UTC 22 (Pompey) : hybrid, +4% crit chance</li>
+<li>🏡 @ A1 UTC 11 (PotKettleBlack) : +2% doublecast effectiveness, +2% missing HP regen, +5% view distance</li>
+<li>🏡 @ C4 UTC 12 (PotKettleBlack) : 5 ward turns, +15% dragon dmg</li>
+<li>🏡 @ B4 UTC 21 (PotKettleBlack) : Parapet 20% @ 100% max HP, +15% full HP dmg, +100% lifesteal</li>
+<li>🏡 @ A3 UTC 8 (Bad Horse) : BB 1, +15% exploit dmg</li>
+<li>🏡 @ A3 UTC 13 (Bad Horse) : +40% Crit dmg, +15% water dmg, +10% fire dmg</li>
+<li>🏡 @ A1 UTC 0 (RainDinners) : +30% dragon dmg, +2% maximum HP regen</li>
+<li>🏡 @ B2 UTC 12 (RainDinners) : +30% arcane dmg, +80% dragon res, +10% dark res</li>
+<li>🏡 @ B3 UTC 12 (RainDinners) : +15% dragon dmg, +100% lifesteal, +20% water dmg</li>
+<li>🏡 @ A4 UTC 3 (Caer Arcanum 1) : 4 ward turns, +2% missing Mana regen, BB 1</li>
+<li>🏡 @ A3 UTC 18 (Caer Arcanum 1) : Parapet 20% @ 100% max HP, +20% lightning dmg</li>
+<li>🏡 @ A1 UTC 16 (Caer Arcanum 3) : BB 1, +15% exploit dmg</li>
+<li>🏡 @ A4 UTC 14 (Chiemi Tanaka) : +3% missing HP regen, +4% accuracy</li>
+<li>🏡 @ A1 UTC 6 (Amity Jackpot) : +80% dark res, +2% accuracy</li>
+<li>🏡 @ A5 UTC 2 (Gilia 1) : +15% exploit dmg, -15% dmg from Balor Forces, +10% lightning dmg</li>
+<li>🏡 @ B1 UTC 16 (Gilia 1) : +20% water dmg, +5% maximum HP regen</li>
+<li>🏡 @ B2 UTC 0 (Chronic 2) : +30% arcane dmg, +10% follower stats</li>
+</ul>
+<p><strong><strong>Week of 14 Sep</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 19 (Amifish) : +15% territory stats, +4% missing HP regen</li>
+<li>🚶 @ C4 UTC 7 (Aon) : 5 ward turns, +20% water dmg</li>
+<li>🚶 @ E4 UTC 7 (Aon) : +5% ward regen, +15% dark dmg</li>
+<li>🚶 @ C1 UTC 1 (Tres) : 5 ward turns, +10% ward dmg</li>
+<li>🏡 @ B3 UTC 21 (DKNK) : Defending in battle will reduce an additional +50% damage, +3% accuracy, +10% water dmg</li>
+<li>🚶 @ C2 UTC 1 (Pompey) : +40% Crit dmg, +3% crit chance, +15% dmg vs dragons</li>
+<li>🏡 @ A4 UTC 13 (PotKettleBlack) : +15% follower stats, +10% dmg vs animals, +15% dragon dmg</li>
+<li>🏡 @ A2 UTC 23 (GreenShores) : +4% accuracy, +20% exploit dmg</li>
+<li>🏡 @ C3 UTC 4 (Bad Horse) : +15% dragon dmg, +6% follower protect</li>
+<li>🏡 @ C2 UTC 4 (Bad Horse) : 5 ward turns, +20% earthen dmg</li>
+<li>🏡 @ B1 UTC 23 (Bad Horse) : +15% full HP dmg, +15% ward dmg, Counter 5% dmg @ 5% chance</li>
+<li>🏡 @ B3 UTC 1 (Chiemi Tanaka) : +4% ward regen, +10% earthen dmg</li>
+<li>🏡 @ A2 UTC 10 (Amity Jackpot) : +15% follower stats, +15% dragon dmg</li>
+<li>🏡 @ A1 UTC 17 (Gilia 2) : +2% accuracy, +10% exploit dmg</li>
+<li>🏡 @ A3 UTC 0 (Chronic 1) : +15% ward dmg, +15% follower stats</li>
+<li>🏡 @ A2 UTC 21 (Chronic 2) : +10% holy dmg, +20% ward dmg</li>
+</ul>
+<p><strong><strong>Week of 21 Sep</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 1 (Jotity) : +5% maximum HP regen, +20% fire dmg</li>
+<li>🏡 @ B3 UTC 3 (Jotity) : +15% follower stats, +80% dragon res</li>
+<li>🏡 @ C2 UTC 4 (Jotity) : +30% arcane dmg, +20% exploit dmg</li>
+<li>🚶 @ A4 UTC 5 (Hook) : BB 1, +5% ward regen</li>
+<li>🏡 @ A4 UTC 18 (Hook) : +5% view distance, +15% ward dmg</li>
+<li>🏡 @ B3 UTC 6 (DKNK) : +20% ward dmg, BB 1, +2% follower protect</li>
+<li>🏡 @ A2 UTC 9 (PotKettleBlack) : +80% holy res, +80% arcane res</li>
+<li>🏡 @ A1 UTC 16 (PotKettleBlack) : +15% full HP dmg, +20% lightning dmg</li>
+<li>🏡 @ A1 UTC 0 (GreenShores) : 3% status reflect, +15% territory stats, +4% ward regen</li>
+<li>🏡 @ A2 UTC 17 (GreenShores) : BB 1, +50% limit break dmg, +20% exploit dmg</li>
+<li>🏡 @ D2 UTC 21 (GreenShores) : +15% arcane dmg, +2% missing HP regen</li>
+<li>🏡 @ B2 UTC 19 (Bad Horse) : +80% holy res, +20% ward dmg</li>
+<li>🏡 @ A4 UTC 19 (Bad Horse) : +5% ward regen, +15% dragon dmg</li>
+<li>🏡 @ A2 UTC 19 (Bad Horse) : +15% follower stats, +3% crit chance, +5% holy dmg</li>
+<li>🏡 @ A3 UTC 21 (RainDinners) : BB 1, +2% missing HP regen</li>
+<li>🏡 @ A1 UTC 0 (Caer Arcanum 2) : +15% follower stats, 5 ward turns</li>
+<li>🏡 @ A3 UTC 23 (Chiemi Tanaka) : +7% follower protect, +4% missing HP regen, +10% dmg vs ancients</li>
+<li>🏡 @ B1 UTC 16 (Amity Jackpot) : 2 ward turns, +3% accuracy</li>
+<li>🏡 @ A3 UTC 20 (Gilia 1) : +20% exploit dmg, +30% arcane dmg</li>
+<li>🚶 @ A4 UTC 17 (Chronic 1) : +4% accuracy, 4 ward turns, +3% maximum HP regen</li>
+<li>🏡 @ A2 UTC 23 (Chronic 1) : +5% missing HP regen, +20% ward dmg</li>
+</ul>
+<p><strong><strong>Week of 28 Sep</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 10 (Jotity) : +5% ward regen, Parapet 20% @ 100% max HP, +25% counter dmg</li>
+<li>🏡 @ A1 UTC 13 (Jotity) : +15% territory stats, +30% counter dmg, +4% missing HP regen</li>
+<li>🚶 @ A4 UTC 8 (Deux) : hybrid, +15% territory stats</li>
+<li>🚶 @ B1 UTC 9 (Deux) : +40% buff duration, +10% lightning dmg, -5% dmg from animals</li>
+<li>🚶 @ E1 UTC 8 (Tres) : +30% arcane dmg, +3% accuracy</li>
+<li>🏡 @ B1 UTC 9 (DKNK) : +80% holy res, +15% holy dmg</li>
+<li>🏡 @ A3 UTC 19 (Pompey) : +5% view distance, +15% full HP dmg, +100% memory rewards</li>
+<li>🏡 @ A2 UTC 21 (Bad Horse) : +30% dragon dmg, +15% ward dmg</li>
+<li>🏡 @ A1 UTC 7 (Chiemi Tanaka) : +15% full HP dmg, +20% ward dmg, -20% dmg from magical creatures</li>
+<li>🏡 @ C2 UTC 1 (Chronic 2) : +5% ward regen, +10% full HP dmg</li>
+<li>🚶 @ A3 UTC 1 (Chronic 2) : +50% buff duration, 2 HP/m, +15% territory stats</li>
+<li>🏡 @ A3 UTC 4 (Chronic 2) : +7% follower protect, +2% maximum Mana regen, +15% ward dmg</li>
+<li>🚶 @ A5 UTC 11 (Chronic 2) : +30% arcane dmg, +10% ward dmg</li>
+<li>🏡 @ A4 UTC 4 (Chronic 3) : +80% dark res, +80% dragon res</li>
+</ul>
+<p><strong><strong>Week of 05 Oct</strong></strong></p>
+<ul>
+<li>🚶 @ A1 UTC 13 (Jotity) : +20% ward dmg, 5% status reflect, +10% earthen dmg</li>
+<li>🏡 @ A2 UTC 15 (Amifish) : BB 1, +20% holy dmg</li>
+<li>🏡 @ B4 UTC 15 (Amifish) : +10% full HP dmg, +15% exploit dmg</li>
+<li>🏡 @ A1 UTC 15 (Amifish) : BB 1, +4% crit chance</li>
+<li>🏡 @ A2 UTC 12 (Hook) : +30% arcane dmg, +5% missing HP regen, +4% maximum Mana regen</li>
+<li>🏡 @ A1 UTC 14 (Aon) : +80% holy res, +10% ward dmg</li>
+<li>🏡 @ B4 UTC 18 (Deux) : 4 ward turns, +3% missing HP regen</li>
+<li>🏡 @ A1 UTC 2 (DKNK) : +30% arcane dmg, +15% territory stats, +30% lightning res</li>
+<li>🏡 @ A2 UTC 1 (Pompey) : BB 1, +3% accuracy, -15% dmg from the Undead Horde.</li>
+<li>🏡 @ A4 UTC 12 (Pompey) : +5% ward regen, +15% arcane dmg</li>
+<li>🏡 @ A5 UTC 22 (Pompey) : +10% fire dmg, +15% lightning dmg</li>
+<li>🏡 @ A2 UTC 22 (Pompey) : +50% buff duration, +3% accuracy, Archistaffs proficiency</li>
+<li>🏡 @ A4 UTC 2 (PotKettleBlack) : +30% dragon dmg, +20% lightning dmg, -5% dmg from animals</li>
+<li>🏡 @ A3 UTC 0 (GreenShores) : +30% arcane dmg, -5% mana consumption, +80% holy res</li>
+<li>🏡 @ B2 UTC 16 (GreenShores) : +20% dark dmg, 15% recharge, +3% crit chance</li>
+<li>🏡 @ B2 UTC 5 (Bad Horse) : +80% holy res, +80% dark res, +10% full HP dmg</li>
+<li>🏡 @ A3 UTC 5 (Bad Horse) : +6% follower protect, +4% maximum HP regen, 80% resist dmg</li>
+<li>🏡 @ B1 UTC 1 (Caer Arcanum 1) : +3% missing HP regen, +15% holy dmg, +7% earthen dmg</li>
+<li>🏡 @ A2 UTC 0 (Chiemi Tanaka) : BB 1, +20% earthen res, +3% ward regen</li>
+<li>🏡 @ A1 UTC 11 (Amity Jackpot) : +10% ward dmg, +5% maximum HP regen</li>
+<li>🏡 @ A4 UTC 4 (Chronic 2) : +80% dark res, +3% accuracy</li>
+</ul>
+<p><strong><strong>Week of 12 Oct</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 8 (Jotity) : +5% maximum HP regen, +10% ward dmg, +6% follower protect</li>
+<li>🏡 @ C1 UTC 20 (Jotity) : +15% ward dmg, +2% maximum HP regen</li>
+<li>🏡 @ B3 UTC 19 (Amifish) : BB 1, +20% fire dmg, +5% follower act</li>
+<li>🏡 @ A2 UTC 1 (Aon) : BB 1, +40% buff duration</li>
+<li>🏡 @ A3 UTC 3 (Aon) : +15% fire dmg, +30% dragon dmg</li>
+<li>🏡 @ A2 UTC 9 (PotKettleBlack) : BB 1, +20% ward dmg</li>
+<li>🏡 @ A3 UTC 16 (GreenShores) : +80% arcane res, +5% missing HP regen</li>
+<li>🏡 @ B4 UTC 20 (GreenShores) : 4 ward turns, +2% accuracy</li>
+<li>🏡 @ A4 UTC 2 (RainDinners) : +80% holy res, +2% accuracy</li>
+<li>🏡 @ A3 UTC 22 (Chiemi Tanaka) : 5 ward turns, +3% ward regen</li>
+<li>🏡 @ A4 UTC 19 (Gilia 1) : +15% territory stats, +4% accuracy</li>
+<li>🏡 @ A1 UTC 2 (Chronic 2) : 5 ward turns, +4% crit chance, +20% dmg vs Lyonesse Forces</li>
+<li>🏡 @ A2 UTC 18 (Chronic 3) : +3% maximum HP regen, +20% dark dmg</li>
+</ul>
+<p><strong><strong>Week of 19 Oct</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 5 (Jotity) : +10% fire dmg, +15% territory stats, +10% holy res</li>
+<li>🏡 @ D1 UTC 5 (Amifish) : +80% arcane res, +10% territory stats</li>
+<li>🏡 @ A2 UTC 10 (Hook) : Parapet 20% @ 95% max HP, +7% follower protect, +2% missing Mana regen</li>
+<li>🏡 @ A3 UTC 2 (DKNK) : +15% full HP dmg, 4 ward turns</li>
+<li>🏡 @ A2 UTC 3 (DKNK) : +80% dragon res, +20% dragon dmg</li>
+<li>🏡 @ C2 UTC 5 (DKNK) : +4% crit chance, +12% faction dmg</li>
+<li>🏡 @ A1 UTC 6 (DKNK) : 5 ward turns, +20% water dmg</li>
+<li>🏡 @ A3 UTC 2 (Pompey) : Parapet 20% @ 95% max HP, +20% dragon dmg</li>
+<li>🏡 @ A3 UTC 6 (Pompey) : +30% arcane dmg, +10% ward dmg</li>
+<li>🏡 @ A1 UTC 6 (Pompey) : +80% dark res, +15% territory stats</li>
+<li>🏡 @ A1 UTC 9 (PotKettleBlack) : 4 ward turns, +10% ward dmg</li>
+<li>🏡 @ A4 UTC 17 (PotKettleBlack) : Parapet 20% @ 100% max HP, +10% ward dmg, Reflect 20% dmg @ 7% chance</li>
+<li>🏡 @ A2 UTC 19 (PotKettleBlack) : +30% dragon dmg, +10% ward dmg, +80% fire res</li>
+<li>🏡 @ A4 UTC 0 (GreenShores) : +7% follower protect, +4% accuracy, 2% ward convertion</li>
+<li>🏡 @ A3 UTC 17 (GreenShores) : Parapet 20% @ 95% max HP, +2% missing HP regen</li>
+<li>🏡 @ C4 UTC 3 (Caer Arcanum 2) : +80% dark res, BB 1</li>
+<li>🏡 @ A1 UTC 13 (Caer Arcanum 3) : BB 1, 3 ward turns</li>
+<li>🚶 @ B3 UTC 5 (Chiemi Tanaka) : +20% ward dmg, +5% follower protect, Reflect 30% dmg @ 5% chance</li>
+<li>🏡 @ A3 UTC 5 (Chiemi Tanaka) : +20% ward dmg, +5% follower protect</li>
+<li>🏡 @ B1 UTC 6 (Chiemi Tanaka) : +5% follower protect, +20% ward dmg</li>
+<li>🏡 @ A1 UTC 16 (Amity Jackpot) : hybrid, +5% missing HP regen</li>
+</ul>
+<p><strong><strong>Week of 26 Oct</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 11 (Jotity) : Parapet 20% @ 95% max HP, +2% accuracy, +5% dmg vs magical creatures</li>
+<li>🏡 @ B3 UTC 13 (Jotity) : 3 ward turns, +4% crit chance</li>
+<li>🏡 @ A2 UTC 21 (Jotity) : +10% lightning dmg, +2% missing HP regen</li>
+<li>🏡 @ A1 UTC 21 (Jotity) : +5% ward regen, +2% missing HP regen</li>
+<li>🏡 @ B2 UTC 20 (Amifish) : +80% dragon res, +10% ward dmg, +20% exploit dmg</li>
+<li>🏡 @ B3 UTC 11 (Hook) : +80% dragon res, +3% missing HP regen</li>
+<li>🏡 @ A3 UTC 11 (Hook) : +30% dragon dmg, +2% accuracy</li>
+<li>🏡 @ A1 UTC 14 (Hook) : +80% dark res, +15% water dmg</li>
+<li>🏡 @ A3 UTC 14 (Hook) : +80% dragon res, +15% exploit dmg</li>
+<li>🏡 @ B4 UTC 14 (Hook) : +30% dragon dmg, BB 1</li>
+<li>🏡 @ A3 UTC 16 (Pompey) : Parapet 20% @ 100% max HP, 2 ward turns</li>
+<li>🏡 @ A3 UTC 20 (Pompey) : +4% ward regen, +3% missing HP regen</li>
+<li>🏡 @ A1 UTC 21 (Pompey) : +80% arcane res, +10% fire dmg</li>
+<li>🏡 @ B1 UTC 16 (PotKettleBlack) : BB 1, +20% ward dmg, +20% water res</li>
+<li>🏡 @ B3 UTC 16 (PotKettleBlack) : +7% follower protect, +3% maximum HP regen, Axes &amp; Hammers proficiency</li>
+<li>🏡 @ A3 UTC 19 (RainDinners) : +40% Crit dmg, +80% dark res, 40 AA mana steal</li>
+<li>🏡 @ A4 UTC 22 (Gilia 1) : +7% follower protect, +25% accessory, 2% ignore ward</li>
+<li>🏡 @ A4 UTC 0 (Chronic 1) : Parapet 20% @ 95% max HP, +12% faction dmg</li>
+<li>🏡 @ B2 UTC 18 (Chronic 3) : 4 ward turns, +20% ward dmg</li>
+</ul>
+<p><strong><strong>Week of 03 Nov</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 10 (Jotity) : +20% fire dmg, 3% ward convertion, +10% full HP dmg</li>
+<li>🏡 @ A4 UTC 1 (Amifish) : +50% buff duration, +4% ward regen, +15% fire dmg</li>
+<li>🏡 @ A1 UTC 5 (Hook) : +15% arcane dmg, +20% fire dmg</li>
+<li>🏡 @ D1 UTC 17 (Aon) : Parapet 20% @ 100% max HP, 2 ward turns, +5% fire dmg</li>
+<li>🏡 @ D2 UTC 17 (Aon) : +15% dark dmg, 5 ward turns</li>
+<li>🚶 @ D2 UTC 22 (Aon) : +40% Crit dmg, +6% follower protect, Parapet 10% @ 90% max HP</li>
+<li>🚶 @ D2 UTC 14 (Tres) : +10% ward dmg, -20% dmg from Balor Forces, 5 ward turns</li>
+<li>🏡 @ A3 UTC 1 (Pompey) : +30% dragon dmg, +10% holy dmg, +25% reflect dmg</li>
+<li>🏡 @ B1 UTC 22 (GreenShores) : +10% fire dmg, +5% view distance</li>
+<li>🚶 @ A2 UTC 22 (Caer Arcanum 1) : +15% fire dmg, +15% full HP dmg, +3% missing HP regen</li>
+<li>🏡 @ A3 UTC 14 (Gilia 1) : Parapet 20% @ 100% max HP, 3 ward turns</li>
+<li>🏡 @ A5 UTC 17 (Gilia 1) : hybrid, +15% dragon dmg</li>
+<li>🏡 @ A4 UTC 20 (Gilia 1) : 3 ward turns, +2% accuracy</li>
+</ul>
+<p><strong><strong>Week of 10 Nov</strong></strong></p>
+<ul>
+<li>🏡 @ B3 UTC 22 (Jotity) : BB 1, +7% follower protect, +8% summon stats</li>
+<li>🚶 @ D2 UTC 12 (Aon) : +30% arcane dmg, +15% holy dmg, +20% counter dmg</li>
+<li>🏡 @ A4 UTC 13 (Aon) : +40% buff duration, +10% lightning dmg</li>
+<li>🚶 @ B3 UTC 18 (Aon) : +20% exploit dmg, +15% territory stats</li>
+<li>🏡 @ C1 UTC 4 (DKNK) : +15% holy dmg, +5% ward regen</li>
+<li>🏡 @ B4 UTC 14 (GreenShores) : 4 ward turns, +15% lightning dmg</li>
+<li>🏡 @ A1 UTC 16 (Caer Arcanum 1) : +15% full HP dmg, +20% dragon dmg</li>
+<li>🏡 @ C1 UTC 4 (Chiemi Tanaka) : +15% holy dmg, +5% ward regen</li>
+<li>🏡 @ C4 UTC 5 (Gilia 1) : +5% maximum HP regen, +20% arcane dmg</li>
+<li>🏡 @ B1 UTC 21 (Gilia 1) : Parapet 20% @ 95% max HP, 5 ward turns</li>
+</ul>
+<p><strong><strong>Week of 17 Nov</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 17 (Jotity) : +5% view distance, BB 1</li>
+<li>🏡 @ B3 UTC 21 (Jotity) : +5% missing HP regen, +4% accuracy, +5% Crit dmg</li>
+<li>🏡 @ A4 UTC 13 (Amifish) : hybrid, +20% lightning dmg</li>
+<li>🚶 @ C4 UTC 15 (Aon) : +40% Crit dmg, BB 1, +3% follower protect</li>
+<li>🏡 @ A3 UTC 2 (DKNK) : +4% ward regen, +15% dark dmg</li>
+<li>🏡 @ A4 UTC 3 (DKNK) : +20% fire dmg, +4% accuracy</li>
+<li>🏡 @ B3 UTC 4 (DKNK) : +15% territory stats, +15% water dmg</li>
+<li>🏡 @ B1 UTC 19 (PotKettleBlack) : +1% gold, +20% ward dmg, +4% accuracy</li>
+<li>🏡 @ A2 UTC 2 (Caer Arcanum 1) : +5% missing HP regen, +4% crit chance</li>
+<li>🏡 @ A3 UTC 2 (Chiemi Tanaka) : +4% ward regen, +15% dark dmg</li>
+<li>🏡 @ A4 UTC 3 (Chiemi Tanaka) : +20% fire dmg, +4% accuracy</li>
+<li>🏡 @ B3 UTC 4 (Chiemi Tanaka) : +15% territory stats, +15% water dmg</li>
+</ul>
+<p><strong><strong>Week of 24 Nov</strong></strong></p>
+<ul>
+<li>🏡 @ B4 UTC 5 (Jotity) : +20% dragon dmg, +15% follower stats</li>
+<li>🏡 @ A1 UTC 18 (Amifish) : +15% ward dmg, +10% accessory</li>
+<li>🏡 @ A3 UTC 0 (Hook) : Parapet 20% @ 95% max HP, +10% exploit dmg</li>
+<li>🚶 @ E1 UTC 17 (Aon) : +15% follower stats, +20% ward dmg</li>
+<li>🚶 @ B3 UTC 11 (Tres) : +5% ward regen, +4% maximum HP regen, +4% missing HP regen</li>
+<li>🏡 @ B1 UTC 0 (Pompey) : hybrid, +15% territory stats</li>
+<li>🏡 @ C3 UTC 3 (Gilia 1) : +15% territory stats, +4% missing HP regen, +10% water res</li>
+<li>🏡 @ A3 UTC 18 (Gilia 1) : BB 1, +1% experience points, +10% exploit dmg</li>
+</ul>
+<p><strong><strong>Week of 01 Dec</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 4 (Jotity) : +15% territory stats, +3% crit chance</li>
+<li>🏡 @ B3 UTC 4 (Jotity) : 5 ward turns, +15% follower stats, -15% dmg from Balor Forces</li>
+<li>🏡 @ B3 UTC 7 (Jotity) : +10% faction dmg, +25% defence power, +20% exploit dmg</li>
+<li>🏡 @ A3 UTC 15 (Amifish) : +5% missing Mana regen, +10% water dmg, +2% missing HP regen</li>
+<li>🏡 @ A4 UTC 20 (Amifish) : +10% full HP dmg, +15% follower stats</li>
+<li>🏡 @ B1 UTC 19 (Hook) : +20% water dmg, +20% lightning dmg, Polearms proficiency</li>
+<li>🏡 @ A1 UTC 21 (Aon) : Parapet 20% @ 95% max HP, +4% ward regen, +10% earthen res</li>
+<li>🏡 @ C3 UTC 0 (Deux) : +15% territory stats, +10% ward dmg</li>
+<li>🚶 @ C3 UTC 15 (DKNK) : +4% crit chance, +20% arcane dmg</li>
+<li>🏡 @ B2 UTC 0 (Caer Arcanum 1) : hybrid, 3 ward turns</li>
+<li>🚶 @ C3 UTC 15 (Chiemi Tanaka) : +4% crit chance, +20% arcane dmg</li>
+</ul>
+<p><strong><strong>Week of 08 Dec</strong></strong></p>
+<ul>
+<li>🏡 @ B4 UTC 13 (Amifish) : Parapet 20% @ 100% max HP, +20% arcane dmg</li>
+<li>🏡 @ A2 UTC 6 (Hook) : +15% dragon dmg, -15% self dmg, hybrid</li>
+<li>🏡 @ C1 UTC 14 (Hook) : hybrid, 2 ward turns, Parapet 20% @ 95% max HP</li>
+<li>🏡 @ B4 UTC 21 (Hook) : +5% view distance, 3 ward turns</li>
+<li>🏡 @ A2 UTC 2 (Aon) : +5% ward regen, +4% crit chance</li>
+<li>🏡 @ A2 UTC 11 (Tres) : BB 1, +80% arcane res</li>
+<li>🏡 @ A1 UTC 20 (Pompey) : hybrid, +65% spawn rate, +80% arcane res</li>
+<li>🏡 @ A2 UTC 14 (GreenShores) : +30% arcane res, +3% accuracy, +12% faction dmg</li>
+<li>🏡 @ A4 UTC 0 (Caer Arcanum 1) : +20% lightning dmg, +10% fire dmg</li>
+<li>🏡 @ A3 UTC 12 (Caer Arcanum 1) : 4 ward turns, +15% fire dmg, +50% quest rewards</li>
+<li>🏡 @ A4 UTC 10 (Gilia 1) : +15% arcane dmg, +20% dragon dmg</li>
+<li>🏡 @ C2 UTC 23 (Gilia 1) : 5 ward turns, +4% missing HP regen</li>
+</ul>
+<p><strong><strong>Week of 15 Dec</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 16 (Jotity) : +20% fire dmg, +80% holy res</li>
+<li>🏡 @ C1 UTC 13 (Hook) : +20% earthen dmg, +20% dragon dmg, +6% follower protect</li>
+<li>🏡 @ D2 UTC 13 (Hook) : +20% lightning dmg, +15% summon stats, +15% territory stats</li>
+<li>🏡 @ B2 UTC 4 (Deux) : Parapet 20% @ 95% max HP, +10% fire dmg</li>
+<li>🏡 @ B3 UTC 7 (Pompey) : +30% dragon dmg, +15% dark dmg, 120 AA mana steal</li>
+<li>🏡 @ A3 UTC 2 (Caer Arcanum 1) : +15% follower stats, Parapet 20% @ 100% max HP, Curved swords proficiency</li>
+<li>🚶 @ D2 UTC 20 (Caer Arcanum 1) : +10% earthen dmg, +5% ward regen</li>
+<li>🏡 @ A2 UTC 20 (Caer Arcanum 1) : +15% follower stats, +3% maximum HP regen, +20% dmg vs Lyonesse Forces</li>
+<li>🏡 @ A1 UTC 4 (Gilia 1) : +15% territory stats, +5% ward regen</li>
+</ul>
+<p><strong><strong>Week of 22 Dec</strong></strong></p>
+<ul>
+<li>🏡 @ B2 UTC 17 (Jotity) : +80% arcane res, +2% experience points, +3% maximum HP regen</li>
+<li>🚶 @ D1 UTC 0 (Aon) : +5% ward regen, +20% water dmg</li>
+<li>🚶 @ C2 UTC 10 (Aon) : +30% arcane dmg, +4% ward regen</li>
+<li>🚶 @ B4 UTC 15 (Aon) : +3% accuracy, +20% arcane dmg</li>
+<li>🚶 @ A1 UTC 19 (Deux) : 5 ward turns, +15% territory stats</li>
+<li>🏡 @ A3 UTC 9 (Tres) : 5 ward turns, +5% follower protect, +5% faction dmg</li>
+<li>🚶 @ C2 UTC 12 (Pompey) : +80% dark res, +10% water dmg</li>
+</ul>
+<p><strong><strong>Week of 29 Dec</strong></strong></p>
+<ul>
+<li>🏡 @ B1 UTC 0 (Jotity) : +5% maximum HP regen, 2 ward turns</li>
+<li>🏡 @ D4 UTC 7 (Aon) : +10% follower stats, BB 1</li>
+<li>🏡 @ A1 UTC 1 (Deux) : +20% earthen dmg, +30% arcane dmg, +2% orns</li>
+<li>🏡 @ D4 UTC 6 (Deux) : +80% arcane res, +10% lightning dmg</li>
+<li>🏡 @ A2 UTC 5 (DKNK) : +20% holy dmg, +5% maximum HP regen</li>
+<li>🏡 @ A2 UTC 5 (Chiemi Tanaka) : +20% holy dmg, +5% maximum HP regen</li>
+</ul>
+
+</div>
+
+
+<style>
+  #search {
+    width: 100%;
+    padding: 0.6em 1em;
+    margin: 1em 0;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+
+  #search:focus {
+    border-color: #66aaff;
+    box-shadow: 0 0 5px rgba(102,170,255,0.5);
+  }
+
+   
+  #search::placeholder {
+    color: #999;
+    font-style: italic;
+  }
+</style>
+
+<script>
+const input = document.getElementById("search");
+const weeks = document.querySelectorAll("#weeks > *");
+
+input.addEventListener("input", () => {
+  const q = input.value.trim().toLowerCase();
+  const terms = q.split(/\s+/).filter(Boolean);
+
+  weeks.forEach(week => {
+    if (week.tagName.match(/^H[1-6]$/) ||
+        week.textContent.match(/Week of/i)) {
+
+      const next = week.nextElementSibling;
+      if (!next) return;
+
+      const list = next.tagName === "UL" ? next :
+                   next.querySelector("ul");
+      if (!list) return;
+
+      const items = list.querySelectorAll("li");
+      let visible = false;
+
+      items.forEach(li => {
+        const text = li.textContent.toLowerCase();
+        const match = terms.every(t => text.includes(t));
+        li.style.display = match || q === "" ? "" : "none";
+        if (match) visible = true;
+      });
+
+      week.style.display = visible || q === "" ? "" : "none";
+      list.style.display = visible || q === "" ? "" : "none";
+    }
+  });
+});
+</script>
+
+
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
