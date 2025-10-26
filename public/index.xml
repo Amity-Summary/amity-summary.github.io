@@ -1027,37 +1027,46 @@ const input = document.getElementById("search");
 const weeks = document.querySelectorAll("#weeks > *");
 
 input.addEventListener("input", () => {
-  const q = input.value.trim().toLowerCase();
-  const terms = q.split(/\s+/).filter(Boolean);
+  const q = input.value.trim().toLowerCase();
+  const terms = q.split(/\s+/).filter(Boolean);
 
-  weeks.forEach(week => {
-    if (week.tagName.match(/^H[1-6]$/) ||
-        week.textContent.match(/Week of/i)) {
+  weeks.forEach(week => {
+    if (week.tagName.match(/^H[1-6]$/) ||
+        week.textContent.match(/Week of/i)) {
 
-      const next = week.nextElementSibling;
-      if (!next) return;
+      const next = week.nextElementSibling;
+      if (!next) return;
 
-      const list = next.tagName === "UL" ? next :
-                   next.querySelector("ul");
-      if (!list) return;
+      const list = next.tagName === "UL" ? next :
+                   next.querySelector("ul");
+      if (!list) return;
 
-      const items = list.querySelectorAll("li");
-      let visible = false;
+      const items = list.querySelectorAll("li");
+      let anyItemVisible = false; 
 
-      items.forEach(li => {
-        const text = li.textContent.toLowerCase();
-        const match = terms.every(t => text.includes(t));
-        li.style.display = match || q === "" ? "" : "none";
-        if (match) visible = true;
-      });
 
-      week.style.display = visible || q === "" ? "" : "none";
-      list.style.display = visible || q === "" ? "" : "none";
-    }
-  });
+      const weekText = week.textContent.toLowerCase();
+      const weekMatches = terms.every(t => weekText.includes(t));
+
+      items.forEach(li => {
+        const text = li.textContent.toLowerCase();
+        const itemMatches = terms.every(t => text.includes(t));
+
+        li.style.display = (q === "" || weekMatches || itemMatches) ? "" : "none";
+       
+        if (itemMatches) {
+          anyItemVisible = true;
+        }
+      });
+
+      const showWeekBlock = (q === "" || weekMatches || anyItemVisible);
+      week.style.display = showWeekBlock ? "" : "none";
+      list.style.display = showWeekBlock ? "" : "none";
+
+    }
+  });
 });
 </script>
-
 
 ]]></content:encoded>
     </item>
