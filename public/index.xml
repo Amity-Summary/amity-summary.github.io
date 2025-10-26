@@ -32,6 +32,450 @@ the other bonuses of a given amity will be displayed as well.</p>
 ]]></content:encoded>
     </item>
     <item>
+      <title>Accessory</title>
+      <link>https://amity-summary.github.org/summaries/accessory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amity-summary.github.org/summaries/accessory/</guid>
+      <description>&lt;input type=&#34;search&#34; id=&#34;search&#34; placeholder=&#34;Crit dmg...&#34;&#xA;  style=&#34;width:100%;padding:0.5em;margin:1em 0;&#34;&gt;&#xA;&#xA;&lt;div id=&#34;weeks&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 19 Jan&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🚶 @ D1 UTC 13 (Aon) : +25% accessory, -10% dmg from ancients&lt;/li&gt;&#xA;&lt;li&gt;🚶 @ D1 UTC 10 (Deux) : +25% accessory, +4% ward regen, 4 ward turns&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 26 Jan&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏡 @ A4 UTC 6 (Deux) : +25% accessory, +30% counter dmg&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ A4 UTC 19 (PotKettleBlack) : +25% accessory, +15% dmg vs Lyonesse Forces, Greatbows proficiency&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 09 Mar&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<input type="search" id="search" placeholder="Crit dmg..."
+  style="width:100%;padding:0.5em;margin:1em 0;">
+
+<div id="weeks">
+  <p><strong><strong>Week of 19 Jan</strong></strong></p>
+<ul>
+<li>🚶 @ D1 UTC 13 (Aon) : +25% accessory, -10% dmg from ancients</li>
+<li>🚶 @ D1 UTC 10 (Deux) : +25% accessory, +4% ward regen, 4 ward turns</li>
+</ul>
+<p><strong><strong>Week of 26 Jan</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 6 (Deux) : +25% accessory, +30% counter dmg</li>
+<li>🏡 @ A4 UTC 19 (PotKettleBlack) : +25% accessory, +15% dmg vs Lyonesse Forces, Greatbows proficiency</li>
+</ul>
+<p><strong><strong>Week of 09 Mar</strong></strong></p>
+<ul>
+<li>🏡 @ B2 UTC 4 (Bad Horse) : +25% accessory, +25% quest rewards</li>
+</ul>
+<p><strong><strong>Week of 23 Mar</strong></strong></p>
+<ul>
+<li>🏡 @ C2 UTC 16 (Amifish) : +25% accessory, +30% arcane dmg, +4% pact power</li>
+<li>🚶 @ B4 UTC 2 (Aon) : +25% accessory, +5% dmg vs dragons</li>
+</ul>
+<p><strong><strong>Week of 30 Mar</strong></strong></p>
+<ul>
+<li>🚶 @ A1 UTC 17 (Tres) : +25% accessory, +5% missing Mana regen, -4% status effect</li>
+</ul>
+<p><strong><strong>Week of 06 Apr</strong></strong></p>
+<ul>
+<li>🚶 @ C4 UTC 20 (Aon) : +25% accessory, +1% crit chance, +4% accuracy</li>
+</ul>
+<p><strong><strong>Week of 27 Apr</strong></strong></p>
+<ul>
+<li>🚶 @ A3 UTC 18 (RainDinners) : +25% accessory, +4% ward skill effectiveness</li>
+<li>🏡 @ A3 UTC 0 (Caer Arcanum 3) : +25% accessory, -10% dmg from animals, +10% buff duration</li>
+</ul>
+<p><strong><strong>Week of 11 May</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 19 (Jotity) : +40% Crit dmg, +20% dragon res, +25% accessory</li>
+</ul>
+<p><strong><strong>Week of 18 May</strong></strong></p>
+<ul>
+<li>🚶 @ B1 UTC 19 (Amifish) : +25% accessory, +20% water res</li>
+</ul>
+<p><strong><strong>Week of 25 May</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 3 (Deux) : +25% accessory, +15% earthen dmg, -20% dmg from magical creatures</li>
+</ul>
+<p><strong><strong>Week of 01 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 3 (Caer Arcanum 1) : +25% accessory, -15% dmg from Balor Forces, 60% resist dmg</li>
+</ul>
+<p><strong><strong>Week of 15 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 14 (Aon) : +25% accessory, +10% full HP dmg, 5 mana/m</li>
+</ul>
+<p><strong><strong>Week of 22 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 6 (PotKettleBlack) : +25% accessory, +15% counter dmg, +15% hybrid dmg</li>
+</ul>
+<p><strong><strong>Week of 06 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 4 (RainDinners) : +25% accessory, +80% dragon res, +10% territory stats</li>
+<li>🏡 @ A1 UTC 1 (Amity Jackpot) : 15% recharge, +5% earthen dmg, +25% accessory</li>
+</ul>
+<p><strong><strong>Week of 27 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 9 (PotKettleBlack) : +25% accessory, +80% dragon res, +12% hybrid dmg</li>
+<li>🏡 @ A1 UTC 2 (Gilia 1) : +25% accessory, -20% dmg from ancients</li>
+</ul>
+<p><strong><strong>Week of 10 Aug</strong></strong></p>
+<ul>
+<li>🚶 @ A1 UTC 16 (Deux) : +25% accessory, +10% dmg vs magical creatures</li>
+<li>🏡 @ B4 UTC 13 (Gilia 1) : +25% accessory, Parapet 5% @ 50% max HP</li>
+</ul>
+<p><strong><strong>Week of 17 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 12 (Chiemi Tanaka) : +25% accessory, -20% dmg from the Undead Horde.</li>
+</ul>
+<p><strong><strong>Week of 31 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 10 (Caer Arcanum 2) : +25% accessory, +3% gold, +2% orns</li>
+</ul>
+<p><strong><strong>Week of 28 Sep</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 13 (Aon) : +25% accessory, 60% resist dmg, -12% mana consumption</li>
+</ul>
+<p><strong><strong>Week of 05 Oct</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 16 (PotKettleBlack) : +25% accessory, -15% dmg from Nothren Forces, -13% self dmg</li>
+</ul>
+<p><strong><strong>Week of 27 Oct</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 0 (Caer Arcanum 1) : +25% accessory, +10% dark res, -3% status effect</li>
+</ul>
+
+</div>
+
+
+<style>
+  #search {
+    width: 100%;
+    padding: 0.6em 1em;
+    margin: 1em 0;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+
+  #search:focus {
+    border-color: #66aaff;
+    box-shadow: 0 0 5px rgba(102,170,255,0.5);
+  }
+
+   
+  #search::placeholder {
+    color: #999;
+    font-style: italic;
+  }
+</style>
+
+<script>
+const input = document.getElementById("search");
+const weeks = document.querySelectorAll("#weeks > *");
+
+input.addEventListener("input", () => {
+  const q = input.value.trim().toLowerCase();
+  const terms = q.split(/\s+/).filter(Boolean);
+
+  weeks.forEach(week => {
+    if (week.tagName.match(/^H[1-6]$/) ||
+        week.textContent.match(/Week of/i)) {
+
+      const next = week.nextElementSibling;
+      if (!next) return;
+
+      const list = next.tagName === "UL" ? next :
+                   next.querySelector("ul");
+      if (!list) return;
+
+      const items = list.querySelectorAll("li");
+      let anyItemVisible = false; 
+
+
+      const weekText = week.textContent.toLowerCase();
+      const weekMatches = terms.every(t => weekText.includes(t));
+
+      items.forEach(li => {
+        const text = li.textContent.toLowerCase();
+        const itemMatches = terms.every(t => text.includes(t));
+
+        li.style.display = (q === "" || weekMatches || itemMatches) ? "" : "none";
+       
+        if (itemMatches) {
+          anyItemVisible = true;
+        }
+      });
+
+      const showWeekBlock = (q === "" || weekMatches || anyItemVisible);
+      week.style.display = showWeekBlock ? "" : "none";
+      list.style.display = showWeekBlock ? "" : "none";
+
+    }
+  });
+});
+</script>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Crit</title>
+      <link>https://amity-summary.github.org/summaries/crit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amity-summary.github.org/summaries/crit/</guid>
+      <description>&lt;input type=&#34;search&#34; id=&#34;search&#34; placeholder=&#34;Crit dmg...&#34;&#xA;  style=&#34;width:100%;padding:0.5em;margin:1em 0;&#34;&gt;&#xA;&#xA;&lt;div id=&#34;weeks&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 05 Jan&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🚶 @ B1 UTC 20 (Aon) : +40% Crit dmg, +25% potion heal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 12 Jan&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🚶 @ B4 UTC 19 (Aon) : +40% Crit dmg, -20% dmg from ancients&lt;/li&gt;&#xA;&lt;li&gt;🏡 @ C2 UTC 8 (Deux) : +40% Crit dmg, Reflect 30% dmg @ 5% chance, -10% dmg from the Undead Horde.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 09 Feb&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🚶 @ B1 UTC 23 (Jotity) : +40% Crit dmg, Parapet 20% @ 100% max HP, +30% water res&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Week of 16 Feb&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<input type="search" id="search" placeholder="Crit dmg..."
+  style="width:100%;padding:0.5em;margin:1em 0;">
+
+<div id="weeks">
+  <p><strong><strong>Week of 05 Jan</strong></strong></p>
+<ul>
+<li>🚶 @ B1 UTC 20 (Aon) : +40% Crit dmg, +25% potion heal</li>
+</ul>
+<p><strong><strong>Week of 12 Jan</strong></strong></p>
+<ul>
+<li>🚶 @ B4 UTC 19 (Aon) : +40% Crit dmg, -20% dmg from ancients</li>
+<li>🏡 @ C2 UTC 8 (Deux) : +40% Crit dmg, Reflect 30% dmg @ 5% chance, -10% dmg from the Undead Horde.</li>
+</ul>
+<p><strong><strong>Week of 09 Feb</strong></strong></p>
+<ul>
+<li>🚶 @ B1 UTC 23 (Jotity) : +40% Crit dmg, Parapet 20% @ 100% max HP, +30% water res</li>
+</ul>
+<p><strong><strong>Week of 16 Feb</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 15 (Jotity) : +40% Crit dmg, 4% free cast, +30% summon stats</li>
+</ul>
+<p><strong><strong>Week of 02 Mar</strong></strong></p>
+<ul>
+<li>🚶 @ D4 UTC 19 (Tres) : +40% Crit dmg, +3% ward regen, +40% simple attack dmg</li>
+</ul>
+<p><strong><strong>Week of 16 Mar</strong></strong></p>
+<ul>
+<li>🚶 @ A2 UTC 14 (Aon) : +40% Crit dmg, 2% ward convertion</li>
+</ul>
+<p><strong><strong>Week of 30 Mar</strong></strong></p>
+<ul>
+<li>🚶 @ B2 UTC 20 (Tres) : +40% Crit dmg, +quest monsters</li>
+<li>🏡 @ A4 UTC 12 (Chronic 3) : +40% Crit dmg, BB 1, -20% dmg from Lyonesse Forces</li>
+</ul>
+<p><strong><strong>Week of 13 Apr</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 18 (Hook) : +40% Crit dmg, +10% territory stats, +20% dark res</li>
+<li>🏡 @ A1 UTC 17 (Aon) : +40% Crit dmg, +20% fire res</li>
+<li>🏡 @ A4 UTC 16 (Bad Horse) : +40% Crit dmg, -10% dmg from magical creatures</li>
+<li>🏡 @ A4 UTC 10 (RainDinners) : +40% Crit dmg, +10% fire res, +15% territory stats</li>
+</ul>
+<p><strong><strong>Week of 20 Apr</strong></strong></p>
+<ul>
+<li>🏡 @ A5 UTC 8 (Amifish) : +40% Crit dmg, +15% earthen dmg, -2% status effect</li>
+<li>🚶 @ A4 UTC 1 (Aon) : +40% Crit dmg, +15% dmg vs mimics</li>
+</ul>
+<p><strong><strong>Week of 27 Apr</strong></strong></p>
+<ul>
+<li>🏡 @ C2 UTC 17 (Aon) : +40% Crit dmg, -20% dmg from mimics</li>
+</ul>
+<p><strong><strong>Week of 11 May</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 19 (Jotity) : +40% Crit dmg, +20% dragon res, +25% accessory</li>
+<li>🏡 @ A4 UTC 21 (RainDinners) : +40% Crit dmg, +1% call response</li>
+<li>🏡 @ A3 UTC 16 (Caer Arcanum 2) : +40% Crit dmg, +20% exploit dmg, Counter 10% dmg @ 2% chance</li>
+</ul>
+<p><strong><strong>Week of 18 May</strong></strong></p>
+<ul>
+<li>🚶 @ B5 UTC 21 (RainDinners) : +40% Crit dmg, +20% earthen res</li>
+</ul>
+<p><strong><strong>Week of 25 May</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 18 (PotKettleBlack) : +40% Crit dmg, +30% dragon dmg, Reflect 15% dmg @ 5% chance</li>
+</ul>
+<p><strong><strong>Week of 01 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ B4 UTC 19 (DKNK) : +40% Crit dmg, 80 AA mana steal, +5% dmg vs the Undead Horde</li>
+</ul>
+<p><strong><strong>Week of 08 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A2 UTC 3 (Aon) : +40% Crit dmg, +30% counter dmg, +10% dmg vs the Undead Horde</li>
+<li>🏡 @ B3 UTC 5 (DKNK) : +40% Crit dmg, Parapet 20% @ 100% max HP, +3% follower protect</li>
+</ul>
+<p><strong><strong>Week of 15 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 6 (Deux) : +40% Crit dmg, +4% view distance, +25% spawn rate</li>
+<li>🏡 @ A2 UTC 22 (Pompey) : +40% Crit dmg, +20% dark dmg, +30% dragon dmg</li>
+<li>🏡 @ A1 UTC 15 (Gilia 2) : +40% Crit dmg, 4% life siphon</li>
+</ul>
+<p><strong><strong>Week of 22 Jun</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 19 (Amifish) : +40% Crit dmg, +12% faction dmg, Counter 10% dmg @ 5% chance</li>
+<li>🏡 @ A3 UTC 10 (Caer Arcanum 1) : +40% Crit dmg, +3% ward absorption, +25% spawn rate</li>
+</ul>
+<p><strong><strong>Week of 06 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ B1 UTC 18 (Pompey) : +40% Crit dmg, +20% buff duration, +10% earthen res</li>
+<li>🏡 @ A4 UTC 21 (Bad Horse) : +40% Crit dmg, +3% double cast chance, +20% fire dmg</li>
+<li>🏡 @ A1 UTC 10 (RainDinners) : +40% Crit dmg, +5% dark dmg, 10 mana/m</li>
+<li>🚶 @ B1 UTC 6 (Chronic 3) : +40% Crit dmg, 80% resist dmg</li>
+</ul>
+<p><strong><strong>Week of 20 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 14 (Jotity) : +40% Crit dmg, -10% dmg from dragons</li>
+<li>🏡 @ C1 UTC 15 (Bad Horse) : +40% Crit dmg, +5% dmg vs animals</li>
+</ul>
+<p><strong><strong>Week of 27 Jul</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 16 (Pompey) : +40% Crit dmg, +1% doublecast effectiveness, +7% lightning dmg</li>
+<li>🏡 @ B1 UTC 6 (Bad Horse) : +40% Crit dmg, -5% dmg from the Undead Horde.</li>
+<li>🏡 @ A4 UTC 20 (Bad Horse) : +40% Crit dmg, +3% call response</li>
+</ul>
+<p><strong><strong>Week of 03 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ C3 UTC 2 (PotKettleBlack) : +40% Crit dmg, +10% fire dmg, +3% ward regen</li>
+<li>🏡 @ A1 UTC 4 (PotKettleBlack) : +40% Crit dmg, +15% territory stats, +5% luck</li>
+<li>🏡 @ A4 UTC 5 (PotKettleBlack) : +40% Crit dmg, -5% dmg from animals</li>
+</ul>
+<p><strong><strong>Week of 10 Aug</strong></strong></p>
+<ul>
+<li>🚶 @ C3 UTC 4 (Deux) : +40% Crit dmg, +4% maximum HP regen, +20% holy dmg</li>
+<li>🚶 @ E1 UTC 13 (Deux) : +40% Crit dmg, +20% ward dmg, -15% dmg from animals</li>
+<li>🏡 @ A2 UTC 17 (PotKettleBlack) : +40% Crit dmg, -5% dmg from dragons</li>
+</ul>
+<p><strong><strong>Week of 17 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 7 (Jotity) : +40% Crit dmg, 5 XP/m</li>
+<li>🏡 @ A3 UTC 7 (Amifish) : +40% Crit dmg, +4% double cast chance, 20 AA mana steal</li>
+<li>🏡 @ A4 UTC 11 (Bad Horse) : +40% Crit dmg, +25% spawn rate</li>
+</ul>
+<p><strong><strong>Week of 24 Aug</strong></strong></p>
+<ul>
+<li>🚶 @ C2 UTC 21 (Aon) : +40% Crit dmg, +10% dmg vs magical creatures</li>
+<li>🏡 @ A2 UTC 3 (Bad Horse) : +40% Crit dmg, 10% status reflect, -5% mana consumption</li>
+</ul>
+<p><strong><strong>Week of 31 Aug</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 13 (Bad Horse) : +40% Crit dmg, +15% water dmg, +10% fire dmg</li>
+</ul>
+<p><strong><strong>Week of 07 Sep</strong></strong></p>
+<ul>
+<li>🚶 @ C2 UTC 1 (Pompey) : +40% Crit dmg, +3% crit chance, +15% dmg vs dragons</li>
+</ul>
+<p><strong><strong>Week of 14 Sep</strong></strong></p>
+<ul>
+<li>🏡 @ B2 UTC 21 (Amifish) : +40% Crit dmg, +30% arcane res, +15% dmg vs Balor Forces</li>
+<li>🏡 @ A1 UTC 6 (DKNK) : +40% Crit dmg, +7% holy dmg</li>
+</ul>
+<p><strong><strong>Week of 21 Sep</strong></strong></p>
+<ul>
+<li>🏡 @ A1 UTC 15 (Jotity) : +40% Crit dmg, 2% ward convertion</li>
+<li>🏡 @ B1 UTC 20 (Chronic 3) : +40% Crit dmg, +30% dark res</li>
+</ul>
+<p><strong><strong>Week of 28 Sep</strong></strong></p>
+<ul>
+<li>🚶 @ D1 UTC 10 (PotKettleBlack) : +40% Crit dmg, +5% dmg vs Lyonesse Forces</li>
+<li>🏡 @ B1 UTC 16 (GreenShores) : +40% Crit dmg, -20% dmg from Nothren Forces</li>
+</ul>
+<p><strong><strong>Week of 05 Oct</strong></strong></p>
+<ul>
+<li>🚶 @ C1 UTC 5 (Amity Jackpot) : +40% Crit dmg</li>
+</ul>
+<p><strong><strong>Week of 20 Oct</strong></strong></p>
+<ul>
+<li>🏡 @ A4 UTC 13 (Amifish) : +40% Crit dmg, +7% fire dmg</li>
+<li>🏡 @ A3 UTC 19 (RainDinners) : +40% Crit dmg, +80% dark res, 40 AA mana steal</li>
+</ul>
+<p><strong><strong>Week of 27 Oct</strong></strong></p>
+<ul>
+<li>🚶 @ D2 UTC 22 (Aon) : +40% Crit dmg, +6% follower protect, Parapet 10% @ 90% max HP</li>
+</ul>
+<p><strong><strong>Week of 03 Nov</strong></strong></p>
+<ul>
+<li>🏡 @ B2 UTC 9 (Hook) : +40% Crit dmg, +2% maximum Mana regen</li>
+<li>🏡 @ C1 UTC 13 (Aon) : +40% Crit dmg, -5% raid ult dmg</li>
+</ul>
+<p><strong><strong>Week of 10 Nov</strong></strong></p>
+<ul>
+<li>🚶 @ C4 UTC 15 (Aon) : +40% Crit dmg, BB 1, +3% follower protect</li>
+</ul>
+<p><strong><strong>Week of 01 Dec</strong></strong></p>
+<ul>
+<li>🏡 @ B4 UTC 11 (Tres) : +40% Crit dmg, -2% status effect</li>
+</ul>
+<p><strong><strong>Week of 15 Dec</strong></strong></p>
+<ul>
+<li>🏡 @ A3 UTC 8 (Hook) : +40% Crit dmg, +1% gold, +4% view distance</li>
+<li>🏡 @ C1 UTC 0 (Aon) : +40% Crit dmg, -15% dmg from magical creatures</li>
+</ul>
+<p><strong><strong>Week of 29 Dec</strong></strong></p>
+<ul>
+<li>🚶 @ D3 UTC 14 (Deux) : +40% Crit dmg, 2% ward convertion</li>
+</ul>
+
+</div>
+
+
+<style>
+  #search {
+    width: 100%;
+    padding: 0.6em 1em;
+    margin: 1em 0;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+
+  #search:focus {
+    border-color: #66aaff;
+    box-shadow: 0 0 5px rgba(102,170,255,0.5);
+  }
+
+   
+  #search::placeholder {
+    color: #999;
+    font-style: italic;
+  }
+</style>
+
+<script>
+const input = document.getElementById("search");
+const weeks = document.querySelectorAll("#weeks > *");
+
+input.addEventListener("input", () => {
+  const q = input.value.trim().toLowerCase();
+  const terms = q.split(/\s+/).filter(Boolean);
+
+  weeks.forEach(week => {
+    if (week.tagName.match(/^H[1-6]$/) ||
+        week.textContent.match(/Week of/i)) {
+
+      const next = week.nextElementSibling;
+      if (!next) return;
+
+      const list = next.tagName === "UL" ? next :
+                   next.querySelector("ul");
+      if (!list) return;
+
+      const items = list.querySelectorAll("li");
+      let anyItemVisible = false; 
+
+
+      const weekText = week.textContent.toLowerCase();
+      const weekMatches = terms.every(t => weekText.includes(t));
+
+      items.forEach(li => {
+        const text = li.textContent.toLowerCase();
+        const itemMatches = terms.every(t => text.includes(t));
+
+        li.style.display = (q === "" || weekMatches || itemMatches) ? "" : "none";
+       
+        if (itemMatches) {
+          anyItemVisible = true;
+        }
+      });
+
+      const showWeekBlock = (q === "" || weekMatches || anyItemVisible);
+      week.style.display = showWeekBlock ? "" : "none";
+      list.style.display = showWeekBlock ? "" : "none";
+
+    }
+  });
+});
+</script>
+
+]]></content:encoded>
+    </item>
+    <item>
       <title>Extended</title>
       <link>https://amity-summary.github.org/summaries/extended/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -214,7 +658,7 @@ the other bonuses of a given amity will be displayed as well.</p>
 <li>🏡 @ C2 UTC 16 (Amifish) : +25% accessory, +30% arcane dmg, +4% pact power</li>
 <li>🏡 @ A2 UTC 16 (Amifish) : +5% ward regen, +5% ward absorption, +5% orns</li>
 <li>🚶 @ C3 UTC 11 (Deux) : +50% buff duration, +7% follower protect</li>
-<li>🚶 @ B2 UTC 18 (Deux) : +29% arcane dmg, BB 1, +40% Crit dmg</li>
+<li>🚶 @ B2 UTC 18 (Deux) : +30% arcane dmg, BB 1, +40% Crit dmg</li>
 <li>🏡 @ C3 UTC 13 (Tres) : 5 ward turns, BB 1, +quest monsters</li>
 <li>🏡 @ A2 UTC 18 (PotKettleBlack) : Parapet 20% @ 95% max HP, 2 ward turns, +20% exploit dmg</li>
 <li>🏡 @ C1 UTC 5 (Bad Horse) : Parapet 20% @ 100% max HP, +2% luck, +15% dark dmg</li>
@@ -397,6 +841,7 @@ the other bonuses of a given amity will be displayed as well.</p>
 <p><strong><strong>Week of 25 May</strong></strong></p>
 <ul>
 <li>🏡 @ B2 UTC 20 (Amifish) : +20% lightning dmg, +2% missing HP regen</li>
+<li>🚶‍♂️ @ D4 UTC 0 (Aon) : +50% buff duration, +25% accessory, +10% dmg vs Lyonesse Forces</li>
 <li>🏡 @ A3 UTC 1 (Deux) : BB 1, +10% follower stats, +8% summon stats</li>
 <li>🏡 @ A2 UTC 3 (Deux) : +25% accessory, +15% earthen dmg, -20% dmg from magical creatures</li>
 <li>🏡 @ A3 UTC 9 (Deux) : +20% fire dmg, +2% accuracy, +1% ward absorption</li>
@@ -1094,6 +1539,9 @@ Furthermore, all the gathered data comes from the community effort of the
 hunters that put in time and effort to map the amities available each week (as
 well as the owner and the hoster of the bot we use for tracking), so consider
 contributing and maybe something good will come up!</p>
+<h2 id="what-does-the-s-means">What does the (S) means?</h2>
+<p>It means that it&rsquo;s a simplified sheet for new players. Please refer to
+the <a href="/about/">About</a> page for more information.</p>
 ]]></content:encoded>
     </item>
   </channel>
